@@ -21,7 +21,7 @@ year = st.slider('Year', 2014, 2030)  # Year selection
 engine = st.slider('Engine CC', 660, 5000)  # Engine capacity slider
 transmission = st.selectbox('Transmission type', cars_data['Transmission'].unique())  # Transmission type
 fuel = st.selectbox('Fuel type', cars_data['Fueltype'].unique())  # Fuel type selection
-mileage = st.slider('Car Mileage', 0, 300000)  # Mileage slider
+mileage = st.slider('Car Mileage', 0, 200000)  # Mileage slider
 
 if st.button("Predict"):
     # Prepare the input data for the model (remove 'Car_Name' as it's not used in the model)

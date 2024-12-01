@@ -24,7 +24,7 @@ Crossover,Vezel,2017,1500,Automatic,Petrol,10500,8475000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,100423,4395000
 Hatchback,N,2020,660,Automatic,Petrol,10000,3800000
 Hatchback,Alto,2020,660,Automatic,Petrol,36000,3695000
-Hatchback,Move,2021,658,Automatic,Petrol,26000,3700000
+Hatchback,Move,2021,660,Automatic,Petrol,26000,3700000
 Hatchback,Alto,2021,660,Automatic,Petrol,6535,3970000
 Hatchback,Picanto,2019,998,Automatic,Petrol,31000,2650000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,59000,8900000
@@ -40,14 +40,14 @@ SUV,X70,2021,1500,Automatic,Petrol,16000,8000000
 Hatchback,Vitz,2019,1000,Automatic,Petrol,73131,4250000
 MPV,Grand,2021,3470,Automatic,Petrol,10700,15500000
 Hatchback,Wagon,2019,660,Automatic,Hybrid,17583,3790000
-Hatchback,Dayz,2022,659,Automatic,Petrol,13235,4050000
-Hatchback,Dayz,2021,659,Automatic,Hybrid,3600,3950000
+Hatchback,Dayz,2022,660,Automatic,Petrol,13235,4050000
+Hatchback,Dayz,2021,660,Automatic,Hybrid,3600,3950000
 Hatchback,Vitz,2019,996,Automatic,Petrol,52851,4650000
-Hatchback,Dayz,2020,659,Automatic,Petrol,14252,3890000
+Hatchback,Dayz,2020,660,Automatic,Petrol,14252,3890000
 Hatchback,Mira,2016,660,Automatic,Petrol,60000,2390000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,92633,8190000
 SUV,Prado,2016,2700,Automatic,Petrol,55000,22000000
-Hatchback,Alto,2020,658,Automatic,Petrol,19219,3690000
+Hatchback,Alto,2020,660,Automatic,Petrol,19219,3690000
 Hatchback,Alto,2019,660,Automatic,Petrol,45744,3550000
 Hatchback,Vitz,2019,996,Automatic,Petrol,74580,4890000
 Crossover,Flair,2020,660,Automatic,Petrol,30934,3500000
@@ -63,7 +63,7 @@ Hatchback,Wagon,2019,660,Automatic,Hybrid,64085,3850000
 Hatchback,Wagon,2021,660,Automatic,Hybrid,35851,4290000
 Micro Van,Clipper,2018,660,Automatic,Petrol,180430,2350000
 SUV,Land,2016,4600,Automatic,Petrol,60915,47500000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,25572,3650000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,25572,3650000
 Hatchback,Vitz,2019,996,Automatic,Petrol,43398,5090000
 Hatchback,Vitz,2019,996,Automatic,Petrol,34152,4950000
 Van,Hiace,2022,2800,Automatic,Diesel,1860,30000000
@@ -77,7 +77,7 @@ Sedan,Saga,2021,1300,Manual,Petrol,14000,2880000
 Micro Van,Every,2018,660,Automatic,Petrol,95856,1675000
 Crossover,HS,2021,1490,Automatic,Petrol,11163,7200000
 Hatchback,Fit,2017,1500,Automatic,Hybrid,74819,4800000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,28989,3950000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,28989,3950000
 Hatchback,Passo,2016,1000,Automatic,Petrol,107815,3150000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,91463,5350000
 Hatchback,N,2016,660,Automatic,Petrol,40191,2700000
@@ -117,7 +117,7 @@ Hatchback,Cast,2016,660,Automatic,Petrol,94096,2850000
 Hatchback,Dayz,2016,660,Automatic,Petrol,75140,2680000
 Hatchback,Hustler,2015,660,Automatic,Petrol,91379,2300000
 Crossover,X1,2018,1500,Automatic,Petrol,145048,7100000
-Hatchback,Dayz,2015,659,Automatic,Petrol,55498,2500000
+Hatchback,Dayz,2015,660,Automatic,Petrol,55498,2500000
 Sedan,Corolla,2015,1500,Automatic,Petrol,107772,5300000
 SUV,Rover,2018,1997,Automatic,Petrol,29000,53500000
 SUV,Land,2018,4600,Automatic,Petrol,28000,53500000
@@ -153,9 +153,9 @@ SUV,Cayenne,2016,3000,Automatic,Hybrid,46538,35000000
 Crossover,C-HR,2019,1197,Automatic,Petrol,37217,9000000
 Hatchback,Vitz,2018,996,Automatic,Petrol,73392,3850000
 Hatchback,Move,2020,660,Automatic,Petrol,28319,3850000
-Hatchback,Dayz,2021,659,Automatic,Petrol,14694,3800000
+Hatchback,Dayz,2021,660,Automatic,Petrol,14694,3800000
 Hatchback,Cast,2020,660,Automatic,Petrol,16629,3650000
-Hatchback,Move,2021,658,Automatic,Petrol,5788,3800000
+Hatchback,Move,2021,660,Automatic,Petrol,5788,3800000
 Mini Van,Note,2019,1200,Automatic,Hybrid,114476,5100000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,98955,6200000
 Hatchback,Alto,2020,660,Automatic,Petrol,1502,3850000
@@ -171,10 +171,10 @@ Hatchback,Boon,2020,996,Automatic,Petrol,18174,4650000
 Hatchback,Dayz,2016,660,Automatic,Petrol,143708,2475000
 Hatchback,Note,2020,1198,Automatic,Hybrid,69809,6200000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,136021,5250000
-Hatchback,Dayz,2018,659,Automatic,Petrol,19939,3100000
+Hatchback,Dayz,2018,660,Automatic,Petrol,19939,3100000
 Hatchback,Note,2018,1198,Automatic,Hybrid,121814,4000000
 Hatchback,N,2020,660,Automatic,Petrol,25148,3700000
-Hatchback,Dayz,2020,659,Automatic,Petrol,5845,3400000
+Hatchback,Dayz,2020,660,Automatic,Petrol,5845,3400000
 Hatchback,Vitz,2016,1000,Automatic,Petrol,130404,3450000
 Hatchback,Vitz,2015,1000,Automatic,Petrol,123616,3250000
 Sedan,Corolla,2017,1500,Automatic,Petrol,66818,6750000
@@ -182,12 +182,12 @@ Hatchback,Mira,2018,660,Automatic,Petrol,58185,3300000
 Hatchback,Aqua,2018,1500,Automatic,Hybrid,22834,5400000
 Crossover,Raize,2019,996,Automatic,Petrol,62976,6400000
 Hatchback,Vitz,2018,996,Automatic,Petrol,57439,4000000
-Hatchback,Dayz,2015,659,Automatic,Petrol,67745,2675000
+Hatchback,Dayz,2015,660,Automatic,Petrol,67745,2675000
 Hatchback,Fit,2015,1500,Automatic,Hybrid,105321,3875000
 Hatchback,Alto,2016,660,Automatic,Petrol,131517,2700000
 Hatchback,Vitz,2019,996,Automatic,Petrol,48494,4200000
 Hatchback,Vitz,2019,996,Automatic,Petrol,44543,4300000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,20729,3300000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,20729,3300000
 Sedan,Corolla,2016,1600,Automatic,Petrol,73000,4150000
 Hatchback,Aqua,2015,1500,Automatic,Hybrid,103964,3800000
 Hatchback,Thor,2019,1000,Automatic,Petrol,21392,3900000
@@ -234,7 +234,7 @@ Hatchback,Wagon,2020,660,Automatic,Hybrid,30500,4250000
 Hatchback,Wagon,2020,660,Automatic,Hybrid,21960,3160000
 SUV,Q7,2018,3000,Automatic,Petrol,87677,30000000
 Sedan,Corolla,2019,1500,Automatic,Petrol,66120,8100000
-Hatchback,Move,2018,658,Automatic,Petrol,123032,3500000
+Hatchback,Move,2018,660,Automatic,Petrol,123032,3500000
 Hatchback,Passo,2018,1000,Automatic,Petrol,85000,3625000
 Hatchback,Hustler,2015,660,Automatic,Petrol,80000,2600000
 Hatchback,Alto,2015,660,Automatic,Petrol,115000,1660000
@@ -243,7 +243,7 @@ Hatchback,Passo,2021,1000,Automatic,Petrol,12000,4550000
 Hatchback,Mira,2020,660,Automatic,Petrol,45000,3350000
 Micro Van,Every,2018,660,Automatic,Petrol,95000,2495000
 Crossover,Vezel,2016,1500,Automatic,Petrol,58000,6500000
-Hatchback,Move,2020,658,Automatic,Petrol,32000,3465000
+Hatchback,Move,2020,660,Automatic,Petrol,32000,3465000
 Hatchback,Picanto,2020,1000,Automatic,Petrol,80000,2680000
 Crossover,C-HR,2019,1800,Automatic,Hybrid,11000,10500000
 Hatchback,Vitz,2017,1500,Automatic,Hybrid,86275,4375000
@@ -290,7 +290,7 @@ Hatchback,Vitz,2017,996,Automatic,Petrol,79000,3700000
 Hatchback,Alto,2016,660,Automatic,Petrol,143000,2480000
 Van,Sienta,2016,1500,Automatic,Petrol,113400,6000000
 Hatchback,Mira,2017,660,Automatic,Petrol,63850,2995000
-Hatchback,Move,2019,658,Automatic,Petrol,26700,3300000
+Hatchback,Move,2019,660,Automatic,Petrol,26700,3300000
 Hatchback,Dayz,2020,660,Automatic,Petrol,30000,3625000
 Crossover,Raize,2021,996,Automatic,Petrol,15490,6390000
 Double Cabin,Tundra,2019,5700,Automatic,Petrol,120700,33000000
@@ -314,7 +314,7 @@ Hatchback,Alto,2019,660,Automatic,Petrol,11626,3490000
 Hatchback,Wagon,2020,660,Automatic,Hybrid,40000,3950000
 Mini Van,Voxy,2018,2000,Automatic,Hybrid,149000,8500000
 Hatchback,N,2016,660,Automatic,Petrol,54000,3250000
-Hatchback,Dayz,2020,659,Automatic,Petrol,5900,3475000
+Hatchback,Dayz,2020,660,Automatic,Petrol,5900,3475000
 Sedan,Grace,2015,1500,Automatic,Petrol,86000,4570000
 Crossover,Vezel,2018,1500,Automatic,Petrol,29800,8895000
 Hatchback,Move,2015,660,Automatic,Petrol,85000,2695000
@@ -372,11 +372,11 @@ Crossover,Glory,2022,1498,Automatic,Petrol,26000,6475000
 Hatchback,Passo,2020,1000,Automatic,Petrol,24000,4510000
 Micro Van,Every,2018,660,Automatic,Petrol,135000,2590000
 Sedan,Sonata,2022,2500,Automatic,Petrol,11000,11100000
-Hatchback,Dayz,2019,659,Automatic,Petrol,7500,3600000
+Hatchback,Dayz,2019,660,Automatic,Petrol,7500,3600000
 Hatchback,Move,2020,660,Automatic,Petrol,19000,3250000
 Hatchback,Vitz,2019,1300,Automatic,Petrol,43000,4600000
 Hatchback,Cast,2021,660,Automatic,Petrol,16581,3990000
-SUV,Jimny,2019,658,Automatic,Petrol,19957,5350000
+SUV,Jimny,2019,660,Automatic,Petrol,19957,5350000
 Hatchback,Note,2017,1198,Automatic,Hybrid,89000,4600000
 Hatchback,Mira,2019,660,Automatic,Petrol,61261,3790000
 Hatchback,Mira,2019,660,Automatic,Petrol,53858,3750000
@@ -447,7 +447,7 @@ Sedan,Alsvin,2021,1300,Manual,Petrol,64000,2795000
 Hatchback,Aqua,2016,1500,Automatic,Hybrid,63000,4700000
 Hatchback,Hustler,2020,660,Automatic,Hybrid,18562,4200000
 Hatchback,Vitz,2015,1000,Automatic,Petrol,222222,3350000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,9200,3550000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,9200,3550000
 Micro Van,Every,2020,660,Automatic,Petrol,103000,2850000
 Micro Van,Every,2016,660,Automatic,Petrol,57500,2550000
 Hatchback,Vitz,2019,1000,Automatic,Petrol,30000,4275000
@@ -460,7 +460,7 @@ SUV,Tucson,2022,1999,Automatic,Petrol,37000,8500000
 Sedan,Elantra,2021,1999,Automatic,Petrol,23615,6500000
 Sedan,Corolla,2020,1500,Automatic,Hybrid,37000,7800000
 Sedan,Benz,2016,1500,Automatic,Petrol,37000,16800000
-Hatchback,Dayz,2015,659,Automatic,Petrol,67000,2750000
+Hatchback,Dayz,2015,660,Automatic,Petrol,67000,2750000
 Crossover,Yaris,2020,1490,Automatic,Hybrid,22800,10000000
 Hatchback,Passo,2016,1000,Automatic,Petrol,75000,3295000
 Compact SUV,ZS,2021,1490,Automatic,Petrol,62000,4600000
@@ -480,12 +480,12 @@ Hatchback,Move,2020,660,Automatic,Petrol,21000,3450000
 Hatchback,Hustler,2018,660,Automatic,Petrol,68500,3200000
 SUV,CR-V,2019,2000,Manual,Diesel,130000,5500000
 Hatchback,Note,2020,1198,Automatic,Hybrid,15252,5300000
-Hatchback,Dayz,2018,659,Automatic,Petrol,35000,3190000
+Hatchback,Dayz,2018,660,Automatic,Petrol,35000,3190000
 Crossover,Tiggo,2022,1598,Automatic,Petrol,11500,9700000
 Compact SUV,ZS,2021,1490,Automatic,Petrol,18000,5500000
 Crossover,Raize,2020,996,Automatic,Petrol,30000,5500000
 Hatchback,Aqua,2020,1500,Automatic,Hybrid,94000,7250000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,4550,3200000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,4550,3200000
 Hatchback,Passo,2020,1000,Automatic,Petrol,23000,3980000
 Hatchback,Mira,2020,660,Automatic,Petrol,10500,3500000
 Sedan,Benz,2015,1600,Automatic,Petrol,55000,13200000
@@ -494,7 +494,7 @@ Hatchback,Passo,2016,1000,Automatic,Petrol,98000,3200000
 SUV,Sportage,2021,1999,Automatic,Petrol,60000,7500000
 Hatchback,Note,2017,1198,Automatic,Hybrid,88000,5000000
 Crossover,Glory,2021,1498,Automatic,Petrol,14000,6200000
-Hatchback,Dayz,2021,659,Automatic,Petrol,20000,3690000
+Hatchback,Dayz,2021,660,Automatic,Petrol,20000,3690000
 Coupe,MX,2018,2000,Automatic,Petrol,11000,12500000
 Hatchback,Wagon,2015,660,Automatic,Petrol,77600,2170000
 Hatchback,Move,2017,660,Automatic,Petrol,95000,1870000
@@ -572,7 +572,7 @@ Hatchback,Dayz,2016,660,Automatic,Petrol,67000,2470000
 Crossover,Ek,2019,660,Automatic,Hybrid,10000,3850000
 SUV,Prado,2017,2700,Automatic,Petrol,28484,28700000
 SUV,Prado,2018,2700,Automatic,Petrol,36000,28700000
-Hatchback,Move,2018,658,Automatic,Petrol,130000,3350000
+Hatchback,Move,2018,660,Automatic,Petrol,130000,3350000
 SUV,X70,2021,1500,Automatic,Petrol,39000,7600000
 Hatchback,Wagon,2020,660,Automatic,Hybrid,23000,4000000
 Crossover,C-HR,2019,1800,Automatic,Hybrid,81000,8890000
@@ -583,7 +583,7 @@ Hatchback,Carol,2016,660,Automatic,Petrol,177000,2550000
 SUV,Prado,2017,2700,Automatic,Petrol,37000,31500000
 Sedan,A3,2017,1200,Automatic,Petrol,156000,7000000
 Sedan,Corolla,2019,1800,Automatic,Petrol,17000,5900000
-Hatchback,Dayz,2019,659,Automatic,Petrol,20000,3290000
+Hatchback,Dayz,2019,660,Automatic,Petrol,20000,3290000
 SUV,Land,2018,4600,Automatic,Petrol,36000,55000000
 SUV,Prado,2018,2700,Automatic,Petrol,67000,33500000
 MPV,Prius,2018,1800,Automatic,Petrol,160704,7500000
@@ -659,13 +659,13 @@ Crossover,Vezel,2017,1500,Automatic,Hybrid,37500,8400000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,90000,5450000
 Sedan,City,2019,1500,Automatic,Petrol,33000,3985000
 MPV,Freed,2016,1500,Automatic,Petrol,75000,5650000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,38000,3575000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,38000,3575000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,80800,5850000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,125000,4450000
 Hatchback,Alto,2020,660,Automatic,Petrol,78000,3475000
 Sedan,A6,2017,1800,Automatic,Petrol,23294,19500000
 MPV,Grand,2021,3470,Automatic,Petrol,7000,15000000
-Hatchback,N,2021,658,Automatic,Petrol,24000,3895000
+Hatchback,N,2021,660,Automatic,Petrol,24000,3895000
 Crossover,HS,2021,1490,Automatic,Petrol,61000,6900000
 Crossover,C-HR,2021,1800,Automatic,Hybrid,45000,8900000
 Micro Van,Every,2021,660,Automatic,Petrol,23000,2275000
@@ -709,20 +709,20 @@ SUV,Fortuner,2022,2800,Automatic,Diesel,25000,19500000
 Mini Van,Hijet,2018,660,Manual,Petrol,89000,1420000
 SUV,Sportage,2020,1999,Automatic,Petrol,21900,7325000
 Sedan,Corolla,2018,1300,Manual,Petrol,92000,3625000
-Hatchback,Dayz,2020,659,Automatic,Petrol,18000,3500000
+Hatchback,Dayz,2020,660,Automatic,Petrol,18000,3500000
 Hatchback,Cast,2020,660,Automatic,Petrol,49948,3850000
 Sedan,Saga,2021,1300,Automatic,Petrol,26000,2900000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,92000,5200000
 Hatchback,Vitz,2018,1000,Automatic,Petrol,82000,4100000
 Hatchback,Passo,2018,1000,Automatic,Petrol,38000,3850000
 Hatchback,Passo,2020,1000,Automatic,Petrol,15800,4800000
-Hatchback,Alto,2015,658,Automatic,Petrol,80000,3000000
+Hatchback,Alto,2015,660,Automatic,Petrol,80000,3000000
 Station Wagon,Corolla,2017,1500,Automatic,Petrol,169000,5900000
 Hatchback,Dayz,2018,660,Automatic,Petrol,47000,3175000
 Sedan,Prius,2017,1800,Automatic,Hybrid,100000,4800000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,95000,9000000
 Mini Van,Note,2019,1198,Automatic,Hybrid,69000,5530000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,22000,4300000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,22000,4300000
 Crossover,Vezel,2017,1500,Automatic,Petrol,53000,8250000
 Compact SUV,ZS,2021,1490,Automatic,Petrol,49000,5250000
 Hatchback,Yaris,2020,1500,Automatic,Petrol,111000,5200000
@@ -787,9 +787,9 @@ Hatchback,N,2015,660,Automatic,Petrol,70000,2900000
 Hatchback,Mira,2015,660,Automatic,Petrol,54500,2390000
 SUV,Land,2018,4600,Automatic,Petrol,26000,56000000
 Hatchback,Pixis,2016,660,Automatic,Petrol,62400,2650000
-Hatchback,Dayz,2017,659,Automatic,Petrol,64500,3150000
+Hatchback,Dayz,2017,660,Automatic,Petrol,64500,3150000
 Hatchback,Alto,2021,660,Automatic,Petrol,25000,3625000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,31000,3950000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,31000,3950000
 Mini Van,Note,2019,1198,Automatic,Hybrid,60000,5400000
 Hatchback,Move,2020,660,Automatic,Petrol,13097,4200000
 Crossover,HS,2022,1500,Automatic,Petrol,23000,7350000
@@ -823,11 +823,11 @@ Hatchback,Mira,2018,660,Automatic,Petrol,27000,3680000
 Hatchback,Mira,2019,660,Automatic,Petrol,36000,3380000
 Convertible,S660,2015,660,Automatic,Petrol,51000,3650000
 Hatchback,Fit,2022,1500,Automatic,Petrol,27000,7550000
-Hatchback,Dayz,2021,659,Automatic,Hybrid,5600,3790000
+Hatchback,Dayz,2021,660,Automatic,Hybrid,5600,3790000
 Crossover,X1,2017,1500,Manual,Petrol,85000,7890000
 Crossover,Vezel,2021,1496,Automatic,Hybrid,22000,12900000
 Hatchback,Wagon,2021,660,Automatic,Hybrid,18000,3880000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,50000,3990000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,50000,3990000
 Crossover,C-HR,2018,1800,Automatic,Hybrid,44204,8790000
 Hatchback,Aqua,2015,1500,Automatic,Hybrid,67000,4350000
 Micro Van,Every,2017,660,Automatic,Petrol,64000,1850000
@@ -847,7 +847,7 @@ Micro Van,Every,2019,660,Automatic,Petrol,25000,3600000
 Hatchback,Boon,2019,1000,Automatic,Petrol,18000,4295000
 SUV,Prado,2018,2700,Automatic,Petrol,34000,28900000
 Sedan,Civic,2016,1800,Automatic,Petrol,197072,3190000
-Hatchback,Tanto,2019,658,Automatic,Petrol,19600,2990000
+Hatchback,Tanto,2019,660,Automatic,Petrol,19600,2990000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,110000,8200000
 SUV,Cayenne,2016,3000,Automatic,Hybrid,24000,34500000
 Hatchback,Passo,2015,1000,Automatic,Petrol,60000,2700000
@@ -932,7 +932,7 @@ SUV,Vitara,2017,1600,Automatic,Petrol,120000,4850000
 Crossover,Vezel,2019,1500,Automatic,Hybrid,22000,8800000
 Hatchback,Vitz,2015,1000,Automatic,Petrol,95000,3090000
 Hatchback,Aqua,2017,1500,Automatic,Hybrid,174000,4350000
-Hatchback,Dayz,2017,659,Automatic,Petrol,48000,2850000
+Hatchback,Dayz,2017,660,Automatic,Petrol,48000,2850000
 Sedan,A6,2016,1800,Automatic,Petrol,8700,17800000
 Sedan,A8,2015,4000,Automatic,Petrol,76774,47000000
 Hatchback,Mira,2021,660,Automatic,Petrol,1178,3820000
@@ -1017,11 +1017,11 @@ Hatchback,Civic,2018,998,Manual,Petrol,51000,5000000
 Hatchback,Alto,2020,660,Automatic,Petrol,10000,3450000
 Micro Van,Clipper,2018,660,Automatic,Petrol,56000,2200000
 Van,Sienta,2017,1500,Automatic,Petrol,69000,6000000
-Mini Van,Jimny,2018,658,Automatic,Petrol,44000,5500000
+Mini Van,Jimny,2018,660,Automatic,Petrol,44000,5500000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,64000,8290000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,55000,8490000
 Sedan,Insight,2022,1500,Automatic,Petrol,19614,14500000
-Hatchback,Dayz,2022,659,Automatic,Hybrid,8000,4500000
+Hatchback,Dayz,2022,660,Automatic,Hybrid,8000,4500000
 Micro Van,Every,2017,660,Automatic,Petrol,118000,2425000
 Micro Van,Every,2018,660,Automatic,Petrol,115600,2695000
 Station Wagon,Corolla,2018,1500,Automatic,Petrol,115000,6700000
@@ -1034,11 +1034,11 @@ Sedan,Benz,2021,1500,Automatic,Petrol,11000,36000000
 Crossover,Vezel,2016,1500,Automatic,Hybrid,64800,6850000
 Sedan,Corolla,2017,1500,Automatic,Hybrid,49600,6850000
 Hatchback,Wagon,2015,660,Automatic,Petrol,120000,2250000
-Hatchback,Dayz,2021,659,Automatic,Hybrid,3000,4050000
+Hatchback,Dayz,2021,660,Automatic,Hybrid,3000,4050000
 Hatchback,Alto,2020,660,Automatic,Petrol,62000,3550000
 Sedan,A3,2015,1800,Automatic,Petrol,75000,6850000
 Mini Van,Hijet,2017,660,Automatic,Petrol,80000,1350000
-Hatchback,Dayz,2021,659,Automatic,Hybrid,1800,3750000
+Hatchback,Dayz,2021,660,Automatic,Hybrid,1800,3750000
 Hatchback,Mira,2021,660,Automatic,Petrol,7400,3855000
 Hatchback,Vitz,2018,996,Automatic,Petrol,115000,4050000
 Sedan,Corolla,2019,1600,Automatic,Petrol,52000,4925000
@@ -1135,7 +1135,7 @@ Sedan,Alsvin,2022,1500,Automatic,Petrol,20000,4220000
 Hatchback,Mira,2015,660,Automatic,Petrol,82000,2700000
 Crossover,Vezel,2019,1500,Automatic,Hybrid,61000,6875000
 Hatchback,Cast,2022,660,Automatic,Petrol,5000,3900000
-Hatchback,Dayz,2021,659,Automatic,Hybrid,23000,3825000
+Hatchback,Dayz,2021,660,Automatic,Hybrid,23000,3825000
 Hatchback,Move,2017,660,Automatic,Petrol,60000,2850000
 Hatchback,N,2021,660,Automatic,Petrol,15000,4125000
 Hatchback,Alto,2015,660,Automatic,Petrol,83000,2365000
@@ -1194,7 +1194,7 @@ Crossover,Vezel,2016,1500,Automatic,Hybrid,110000,5950000
 Double Cabin,F,2020,5000,Automatic,Petrol,35000,65000000
 Hatchback,Note,2020,1198,Automatic,Hybrid,54864,6200000
 Crossover,C-HR,2018,1800,Automatic,Hybrid,18500,11800000
-Hatchback,Move,2019,658,Automatic,Petrol,27000,3250000
+Hatchback,Move,2019,660,Automatic,Petrol,27000,3250000
 Pick Up,Sierra,2020,6600,Automatic,Diesel,35000,58000000
 Sedan,Grace,2020,1500,Automatic,Petrol,26000,8000000
 Crossover,HS,2021,1490,Automatic,Petrol,28000,6650000
@@ -1228,7 +1228,7 @@ MPV,Roomy,2019,1000,Automatic,Petrol,23000,3850000
 Hatchback,Aqua,2017,1500,Automatic,Hybrid,77000,4875000
 Hatchback,Swift,2022,1242,Automatic,Petrol,32000,4500000
 Hatchback,Mira,2020,660,Automatic,Petrol,31000,3800000
-Hatchback,Alto,2015,658,Automatic,Petrol,88000,2650000
+Hatchback,Alto,2015,660,Automatic,Petrol,88000,2650000
 Crossover,Vezel,2016,1500,Automatic,Hybrid,95000,5200000
 SUV,X1,2017,2000,Automatic,Petrol,55000,8000000
 Crossover,Vezel,2019,1500,Automatic,Petrol,40000,7550000
@@ -1239,7 +1239,7 @@ Crossover,Yaris,2021,1490,Automatic,Hybrid,8000,9800000
 Hatchback,Wagon,2021,660,Automatic,Hybrid,43000,3200000
 Hatchback,Wagon,2021,660,Automatic,Hybrid,5700,2900000
 Hatchback,N,2018,660,Automatic,Petrol,100000,2500000
-Hatchback,Dayz,2018,659,Automatic,Petrol,35000,3200000
+Hatchback,Dayz,2018,660,Automatic,Petrol,35000,3200000
 Crossover,Vezel,2017,1500,Automatic,Hybrid,73000,7640000
 SUV,Vitara,2017,1600,Automatic,Petrol,80000,4350000
 Hatchback,Vitz,2019,1000,Automatic,Petrol,22000,4375000
@@ -1295,7 +1295,7 @@ Crossover,Vezel,2016,1500,Automatic,Hybrid,59000,6245000
 Sedan,Prius,2015,1800,Automatic,Petrol,130000,5285000
 Hatchback,Vitz,2015,1000,Automatic,Petrol,90000,2680000
 Sedan,Grace,2015,1500,Automatic,Petrol,155000,4350000
-Hatchback,Dayz,2020,659,Automatic,Petrol,10000,3450000
+Hatchback,Dayz,2020,660,Automatic,Petrol,10000,3450000
 Hatchback,Alto,2017,660,Automatic,Petrol,520000,2888000
 SUV,Prado,2017,2700,Automatic,Petrol,60000,26500000
 SUV,Land,2017,4600,Automatic,Petrol,42000,48500000
@@ -1310,7 +1310,7 @@ Sedan,Corolla,2019,1300,Manual,Petrol,73000,3820000
 SUV,Land,2016,4600,Automatic,Petrol,51000,42000000
 Hatchback,N,2020,660,Automatic,Petrol,50000,4000000
 SUV,Prado,2018,2700,Automatic,Petrol,23000,31500000
-Hatchback,Dayz,2016,659,Automatic,Petrol,91000,2200000
+Hatchback,Dayz,2016,660,Automatic,Petrol,91000,2200000
 Crossover,Benz,2021,1300,Automatic,Petrol,17000,25000000
 Crossover,Vezel,2018,1500,Automatic,Petrol,69000,8495000
 Crossover,HS,2021,1500,Automatic,Petrol,9000,7600000
@@ -1347,7 +1347,7 @@ Hatchback,Wagon,2022,660,Automatic,Hybrid,9000,4550000
 Hatchback,Swift,2017,1000,Automatic,Petrol,99000,5195000
 Crossover,Vezel,2018,1500,Automatic,Petrol,46000,8675000
 Hatchback,Passo,2018,1000,Automatic,Petrol,55000,4000000
-Hatchback,Dayz,2017,659,Automatic,Petrol,54000,2800000
+Hatchback,Dayz,2017,660,Automatic,Petrol,54000,2800000
 Crossover,Vezel,2018,1500,Automatic,Petrol,38000,9000000
 Sedan,A4,2016,1400,Automatic,Petrol,100000,11400000
 Hatchback,Aqua,2016,1500,Automatic,Hybrid,160000,5050000
@@ -1362,7 +1362,7 @@ Hatchback,Vitz,2019,996,Automatic,Petrol,57000,4150000
 SUV,Tucson,2021,2000,Automatic,Petrol,48000,7800000
 Hatchback,Mira,2018,660,Automatic,Petrol,60000,3300000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,64500,8400000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,30200,4020000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,30200,4020000
 MPV,Tank,2019,1000,Automatic,Petrol,19500,3875000
 Hatchback,Vitz,2018,1000,Automatic,Petrol,109000,4175000
 Hatchback,Vitz,2018,1000,Automatic,Petrol,50000,3900000
@@ -1455,7 +1455,7 @@ SUV,Prado,2017,2700,Automatic,Petrol,50000,26500000
 Crossover,Vezel,2016,1500,Automatic,Petrol,95000,6400000
 Hatchback,Alto,2020,660,Automatic,Petrol,9500,3325000
 Crossover,Raize,2021,996,Automatic,Petrol,15000,4500000
-Hatchback,Dayz,2022,659,Automatic,Hybrid,6000,4250000
+Hatchback,Dayz,2022,660,Automatic,Hybrid,6000,4250000
 SUV,LX,2022,3400,Automatic,Petrol,335,170000000
 Crossover,Vezel,2017,1500,Automatic,Petrol,125000,7500000
 SUV,Land,2022,3500,Automatic,Petrol,5463,93500000
@@ -1489,7 +1489,7 @@ MPV,Tank,2019,1000,Automatic,Petrol,42300,4800000
 Hatchback,Swift,2018,1000,Automatic,Petrol,36000,4800000
 SUV,Land,2015,4608,Automatic,Petrol,72000,36000000
 Hatchback,Vitz,2020,1000,Automatic,Petrol,13000,5275000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,7900,4050000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,7900,4050000
 Compact sedan,City,2022,1497,Automatic,Petrol,25000,4910000
 Sedan,Civic,2017,1800,Automatic,Petrol,218000,4870000
 SUV,LX,2018,5700,Automatic,Petrol,35000,79000000
@@ -1506,7 +1506,7 @@ Crossover,HS,2021,1500,Automatic,Petrol,16000,7200000
 Station Wagon,Prius,2018,1800,Automatic,Petrol,96000,6000000
 Hatchback,Aygo,2015,1000,Automatic,Petrol,40000,2700000
 Hatchback,N,2019,660,Automatic,Petrol,28102,3400000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,36696,3750000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,36696,3750000
 Sedan,A6,2020,2000,Automatic,Petrol,31000,30500000
 Crossover,Harrier,2015,2000,Automatic,Hybrid,135000,13500000
 Van,Sienta,2016,1500,Automatic,Hybrid,60000,5800000
@@ -1530,7 +1530,7 @@ Hatchback,Move,2015,660,Automatic,Petrol,133890,2800000
 Crossover,Vezel,2017,1500,Automatic,Hybrid,78000,7700000
 Sedan,Premio,2019,1500,Automatic,Petrol,52000,9490000
 Hatchback,Mira,2017,660,Automatic,Petrol,51510,3050000
-Hatchback,Dayz,2016,659,Automatic,Petrol,80000,2500000
+Hatchback,Dayz,2016,660,Automatic,Petrol,80000,2500000
 Sedan,A5,2019,1400,Automatic,Petrol,66000,19000000
 Sedan,Corolla,2015,1300,Manual,Petrol,87000,2850000
 Crossover,Jolion,2021,1500,Automatic,Petrol,19000,7300000
@@ -1559,7 +1559,7 @@ Crossover,HS,2022,1490,Automatic,Petrol,306,7765000
 SUV,Land,2019,4600,Automatic,Petrol,9800,62000000
 Micro Van,Every,2015,660,Automatic,Petrol,112000,1395000
 Sedan,A4,2017,1400,Automatic,Petrol,160000,10300000
-Hatchback,Dayz,2020,659,Automatic,Petrol,17800,3750000
+Hatchback,Dayz,2020,660,Automatic,Petrol,17800,3750000
 SUV,Prado,2017,2700,Automatic,Petrol,27000,28500000
 Hatchback,Vitz,2015,1000,Automatic,Petrol,70000,3150000
 SUV,Prado,2017,2700,Automatic,Petrol,61675,29500000
@@ -1614,7 +1614,6 @@ Hatchback,Passo,2018,996,Automatic,Petrol,78000,3600000
 Hatchback,Passo,2019,1000,Automatic,Petrol,37000,4000000
 Crossover,C-HR,2018,1800,Automatic,Hybrid,34500,9500000
 Hatchback,Alto,2022,660,Manual,Petrol,26786,2350000
-Micro Van,Every,2016,600,Automatic,Petrol,1000,3500000
 Hatchback,Ek,2016,660,Automatic,Petrol,78000,1895000
 Crossover,Vezel,2019,1500,Automatic,Petrol,31500,9295000
 Hatchback,N,2016,660,Automatic,Petrol,65000,2725000
@@ -1622,7 +1621,7 @@ Crossover,Vezel,2015,1500,Automatic,Hybrid,98000,5520000
 Crossover,Vezel,2016,1500,Automatic,Petrol,65000,5950000
 Sedan,Civic,2018,1800,Automatic,Petrol,50000,5500000
 Crossover,Vezel,2018,1500,Automatic,Petrol,28956,8150000
-Hatchback,EK,2020,659,Automatic,Petrol,22000,3620000
+Hatchback,EK,2020,660,Automatic,Petrol,22000,3620000
 Sedan,Corolla,2015,1300,Manual,Petrol,107000,3500000
 Sedan,Civic,2018,1800,Automatic,Petrol,100000,5500000
 Hatchback,Aqua,2015,1500,Automatic,Hybrid,113000,4165000
@@ -1690,7 +1689,7 @@ Hatchback,Aqua,2015,1500,Automatic,Hybrid,80000,4550000
 Sedan,Prius,2020,1800,Automatic,Hybrid,36000,15000000
 SUV,Land,2017,4600,Automatic,Petrol,56000,41500000
 Sedan,Panamera,2018,3000,Automatic,Petrol,29000,77500000
-Hatchback,Move,2021,658,Automatic,Petrol,58618,3790000
+Hatchback,Move,2021,660,Automatic,Petrol,58618,3790000
 MPV,BR-V,2020,1500,Automatic,Petrol,72000,5400000
 MPV,Grand,2022,3500,Automatic,Petrol,12254,13500000
 Hatchback,N,2020,660,Automatic,Petrol,30000,3750000
@@ -1768,7 +1767,7 @@ Crossover,Vezel,2015,1500,Automatic,Hybrid,110000,5200000
 Hatchback,Alto,2019,660,Automatic,Petrol,44000,3450000
 Hatchback,N,2018,660,Automatic,Petrol,70000,2975000
 Hatchback,Note,2017,1198,Automatic,Hybrid,80000,4050000
-Hatchback,Dayz,2020,659,Automatic,Petrol,90000,3575000
+Hatchback,Dayz,2020,660,Automatic,Petrol,90000,3575000
 Hatchback,Alto,2015,660,Automatic,Petrol,85000,2430000
 Hatchback,Carol,2015,660,Automatic,Petrol,120000,2280000
 Micro Van,Clipper,2016,660,Automatic,Petrol,150000,2360000
@@ -1925,7 +1924,7 @@ Sedan,A5,2018,1400,Automatic,Petrol,71000,15500000
 SUV,Land,2015,4600,Automatic,Petrol,111300,39500000
 Sedan,Benz,2018,1600,Automatic,Petrol,15000,20500000
 Sedan,Insight,2019,1500,Automatic,Hybrid,60268,10000000
-Hatchback,Dayz,2021,659,Automatic,Hybrid,35000,3725000
+Hatchback,Dayz,2021,660,Automatic,Hybrid,35000,3725000
 Hatchback,Aqua,2017,1500,Automatic,Hybrid,67500,4600000
 Sedan,Prius,2017,1800,Automatic,Hybrid,40000,7700000
 Hatchback,Mira,2022,660,Automatic,Petrol,700,3775000
@@ -1944,7 +1943,7 @@ Crossover,Vezel,2016,1500,Automatic,Petrol,95000,7000000
 Sedan,A4,2018,1400,Automatic,Petrol,83000,11200000
 Hatchback,Alto,2016,660,Automatic,Petrol,131000,2850000
 Van,Sienta,2018,1500,Automatic,Hybrid,49000,6300000
-Hatchback,Dayz,2015,659,Automatic,Petrol,104640,2350000
+Hatchback,Dayz,2015,660,Automatic,Petrol,104640,2350000
 Sedan,Prius,2016,1800,Automatic,Hybrid,65000,7600000
 Hatchback,Aqua,2018,1500,Automatic,Hybrid,130000,6400000
 SUV,Tucson,2022,2000,Automatic,Petrol,14000,8700000
@@ -2010,7 +2009,7 @@ Sedan,Civic,2017,1800,Automatic,Petrol,112000,4850000
 Mini Van,Hijet,2016,660,Automatic,Petrol,195000,1575000
 Hatchback,Vitz,2018,1000,Automatic,Petrol,80000,4250000
 Hatchback,Alto,2017,660,Automatic,Petrol,52000,2800000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,9000,3400000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,9000,3400000
 Hatchback,Passo,2016,1000,Automatic,Petrol,73000,3200000
 Hatchback,Wagon,2021,660,Automatic,Hybrid,10000,3750000
 SUV,Land,2015,4600,Automatic,Petrol,84000,39000000
@@ -2047,7 +2046,7 @@ Hatchback,Aqua,2015,1500,Automatic,Hybrid,80000,4800000
 Hatchback,Passo,2020,1000,Automatic,Petrol,10000,4350000
 Sedan,A5,2019,1400,Automatic,Petrol,45000,18000000
 Hatchback,Aqua,2018,1500,Automatic,Hybrid,34500,6200000
-Hatchback,Alto,2018,658,Automatic,Petrol,88000,2650000
+Hatchback,Alto,2018,660,Automatic,Petrol,88000,2650000
 Sedan,Benz,2021,1600,Automatic,Petrol,21000,23400000
 Hatchback,Fit,2015,1500,Automatic,Hybrid,77000,3995000
 Hatchback,Passo,2021,1000,Automatic,Petrol,2000,4500000
@@ -2085,7 +2084,7 @@ Hatchback,Dayz,2018,660,Automatic,Petrol,69000,3390000
 Crossover,Vezel,2017,1500,Automatic,Hybrid,70000,8000000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,130000,5300000
 Hatchback,Swift,2022,1242,Automatic,Petrol,9200,4775000
-Hatchback,Dayz,2020,659,Automatic,Petrol,32000,3650000
+Hatchback,Dayz,2020,660,Automatic,Petrol,32000,3650000
 Micro Van,Every,2018,660,Automatic,Petrol,130000,2575000
 Hatchback,Passo,2016,1000,Automatic,Petrol,56000,3250000
 Van,Bolan,2018,800,Manual,Petrol,41000,1225000
@@ -2170,7 +2169,7 @@ Sedan,Benz,2015,1600,Automatic,Petrol,40000,14800000
 Hatchback,N,2021,660,Automatic,Petrol,14641,3890000
 SUV,Prado,2018,2800,Automatic,Diesel,33590,30000000
 SUV,Prado,2016,2700,Automatic,Petrol,55000,23000000
-Hatchback,Dayz,2018,659,Automatic,Petrol,85000,3175000
+Hatchback,Dayz,2018,660,Automatic,Petrol,85000,3175000
 Hatchback,Mira,2016,660,Automatic,Petrol,98000,2540000
 Crossover,Vezel,2016,1500,Automatic,Petrol,57000,7300000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,59600,5800000
@@ -2243,7 +2242,7 @@ Hatchback,Mira,2015,660,Automatic,Petrol,135000,2200000
 Hatchback,Passo,2019,996,Automatic,Petrol,54000,3450000
 Hatchback,Vitz,2018,996,Automatic,Petrol,76000,3950000
 Hatchback,Hustler,2015,660,Automatic,Petrol,120100,2680000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,43000,3260000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,43000,3260000
 SUV,Prado,2016,2700,Automatic,Petrol,85000,22200000
 SUV,Sportage,2021,2000,Automatic,Petrol,32000,7550000
 Hatchback,Note,2020,1198,Automatic,Hybrid,30000,6690000
@@ -2360,10 +2359,10 @@ Hatchback,Wagon,2021,660,Automatic,Hybrid,21000,3600000
 SUV,Sportage,2020,1999,Automatic,Petrol,48000,6400000
 Hatchback,Mira,2017,660,Automatic,Petrol,38200,3250000
 Hatchback,Alto,2015,660,Automatic,Petrol,60000,2550000
-Hatchback,Move,2019,658,Automatic,Petrol,23510,3590000
-Hatchback,Dayz,2016,659,Automatic,Petrol,54000,2800000
+Hatchback,Move,2019,660,Automatic,Petrol,23510,3590000
+Hatchback,Dayz,2016,660,Automatic,Petrol,54000,2800000
 Crossover,C-HR,2018,1800,Automatic,Hybrid,105000,8350000
-Hatchback,Move,2019,658,Automatic,Petrol,88304,3550000
+Hatchback,Move,2019,660,Automatic,Petrol,88304,3550000
 Crossover,Raize,2020,1000,Automatic,Petrol,21950,7150000
 SUV,Juke,2016,1500,Automatic,Petrol,120000,3200000
 Crossover,Raize,2019,1000,Automatic,Petrol,19000,6099000
@@ -2406,7 +2405,7 @@ Mini Van,Hijet,2018,660,Automatic,Petrol,200000,2450000
 Crossover,Raize,2020,1000,Automatic,Petrol,11516,7000000
 Hatchback,Vitz,2019,996,Automatic,Petrol,35027,4400000
 Mini Van,Hijet,2017,660,Automatic,Petrol,100000,1430000
-Hatchback,Move,2020,658,Automatic,Petrol,100000,3600000
+Hatchback,Move,2020,660,Automatic,Petrol,100000,3600000
 Hatchback,Mira,2017,660,Automatic,Petrol,63000,3150000
 Crossover,C-HR,2018,1800,Automatic,Hybrid,41000,9000000
 Hatchback,Move,2015,660,Automatic,Petrol,97500,2200000
@@ -2484,7 +2483,7 @@ Crossover,Jolion,2021,1497,Automatic,Petrol,38000,8500000
 Crossover,C-HR,2018,1800,Automatic,Hybrid,20000,10500000
 Crossover,HS,2022,1500,Automatic,Petrol,6500,8050000
 Hatchback,Hustler,2017,660,Automatic,Petrol,95000,1950000
-Hatchback,Dayz,2017,659,Automatic,Petrol,150000,1935000
+Hatchback,Dayz,2017,660,Automatic,Petrol,150000,1935000
 Hatchback,Move,2020,660,Automatic,Petrol,32000,3240000
 Hatchback,Wagon,2016,660,Automatic,Petrol,69000,2850000
 Hatchback,Fit,2019,1500,Automatic,Hybrid,65000,5200000
@@ -2494,7 +2493,7 @@ Crossover,C-HR,2017,1800,Automatic,Hybrid,80000,8900000
 Micro Van,Clipper,2019,660,Automatic,Petrol,121000,2420000
 Hatchback,N,2017,660,Automatic,Petrol,43000,3050000
 Hatchback,Passo,2015,1000,Automatic,Petrol,75000,3400000
-SUV,Jimny,2021,658,Automatic,Petrol,6600,5000000
+SUV,Jimny,2021,660,Automatic,Petrol,6600,5000000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,41000,5600000
 SUV,Jimny,2020,1500,Manual,Petrol,14315,5500000
 Hatchback,Swift,2017,1000,Automatic,Petrol,54000,4600000
@@ -2517,7 +2516,7 @@ Hatchback,Note,2016,1198,Automatic,Hybrid,37000,4300000
 Crossover,HS,2021,1490,Automatic,Petrol,65000,7050000
 SUV,Land,2016,4600,Automatic,Petrol,58000,46000000
 Hatchback,Alto,2021,660,Automatic,Petrol,12000,3680000
-Hatchback,Dayz,2015,659,Automatic,Petrol,109000,2510000
+Hatchback,Dayz,2015,660,Automatic,Petrol,109000,2510000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,52000,7795000
 Hatchback,Move,2015,660,Automatic,Petrol,71000,2525000
 Hatchback,Mira,2020,660,Automatic,Petrol,20000,3520000
@@ -2531,7 +2530,7 @@ Hatchback,Ek,2017,660,Automatic,Petrol,95000,2180000
 Hatchback,Passo,2018,1000,Automatic,Petrol,90000,4200000
 Hatchback,Passo,2019,1000,Automatic,Petrol,42000,4200000
 Sedan,Corolla,2019,1600,Automatic,Petrol,56000,5250000
-Hatchback,Move,2020,658,Automatic,Petrol,34000,3650000
+Hatchback,Move,2020,660,Automatic,Petrol,34000,3650000
 Hatchback,Wagon,2020,660,Automatic,Hybrid,3290,4100000
 Crossover,Vezel,2017,1500,Automatic,Petrol,36000,8500000
 MPV,Roomy,2021,1000,Automatic,Petrol,50000,4000000
@@ -2556,7 +2555,7 @@ Crossover,C-HR,2017,1800,Automatic,Hybrid,78000,7900000
 Hatchback,Passo,2020,1000,Automatic,Petrol,15000,4650000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,42500,8200000
 Hatchback,Move,2018,660,Automatic,Petrol,29000,3050000
-Hatchback,Dayz,2019,659,Automatic,Petrol,55000,3300000
+Hatchback,Dayz,2019,660,Automatic,Petrol,55000,3300000
 SUV,BJ40,2022,2000,Automatic,Petrol,12000,9250000
 Sedan,Grace,2020,1496,Automatic,Hybrid,22900,8500000
 Micro Van,Clipper,2017,660,Automatic,Petrol,50000,2550000
@@ -2615,7 +2614,7 @@ Hatchback,Move,2020,660,Automatic,Petrol,20000,3575000
 Hatchback,Mira,2015,660,Automatic,Petrol,175000,2700000
 Mini Vehicles,Taft,2021,660,Automatic,Petrol,12000,4230000
 Van,Sienta,2018,1500,Automatic,Hybrid,221968,5850000
-Hatchback,Dayz,2020,659,Automatic,Petrol,84000,3490000
+Hatchback,Dayz,2020,660,Automatic,Petrol,84000,3490000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,102000,8500000
 Hatchback,Vitz,2016,1000,Automatic,Petrol,65000,3380000
 Mini Van,Hijet,2018,660,Automatic,Petrol,160000,2470000
@@ -2659,7 +2658,7 @@ Mini Van,X-PV,2017,1000,Manual,Petrol,69000,1150000
 Hatchback,N,2022,660,Automatic,Petrol,6000,5500000
 Hatchback,Tanto,2016,660,Automatic,Petrol,80000,2800000
 Mini Van,Hijet,2017,660,Automatic,Petrol,80000,1400000
-Hatchback,Dayz,2018,659,Automatic,Petrol,86000,2550000
+Hatchback,Dayz,2018,660,Automatic,Petrol,86000,2550000
 Hatchback,Passo,2015,1000,Automatic,Petrol,46000,3300000
 Hatchback,Hustler,2020,660,Automatic,Hybrid,29000,4350000
 Micro Van,Every,2016,660,Automatic,Petrol,4350,1850000
@@ -2679,7 +2678,7 @@ Hatchback,Passo,2017,1000,Automatic,Petrol,46000,3150000
 Hatchback,Note,2018,1198,Automatic,Hybrid,67000,4395000
 Hatchback,Passo,2020,1000,Automatic,Petrol,14500,4400000
 SUV,BJ40,2022,1981,Automatic,Petrol,9542,10700000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,70000,3650000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,70000,3650000
 Hatchback,Passo,2017,1000,Automatic,Petrol,43152,3825000
 Hatchback,Vitz,2017,996,Automatic,Petrol,72400,3850000
 Hatchback,Hustler,2020,660,Automatic,Petrol,35000,3975000
@@ -2704,7 +2703,7 @@ Sedan,Prius,2015,1800,Automatic,Petrol,104000,5650000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,140000,5500000
 Crossover,RX,2016,3500,Automatic,Hybrid,30500,37500000
 Hatchback,Mira,2020,660,Automatic,Petrol,43000,3400000
-Hatchback,Move,2020,658,Automatic,Petrol,29000,3810000
+Hatchback,Move,2020,660,Automatic,Petrol,29000,3810000
 SUV,Juke,2021,999,Automatic,Petrol,11500,6500000
 Hatchback,Passo,2018,1000,Automatic,Petrol,37000,3450000
 Van,Sienta,2018,1500,Automatic,Hybrid,24699,7450000
@@ -2746,7 +2745,7 @@ Crossover,Vezel,2016,1500,Automatic,Hybrid,96000,5525000
 Hatchback,Cast,2019,660,Automatic,Petrol,18500,3500000
 Mini Van,Hijet,2018,660,Automatic,Petrol,135000,2495000
 Hatchback,Cultus,2020,1000,Manual,Petrol,72000,2650000
-Hatchback,Dayz,2020,659,Automatic,Petrol,23000,4150000
+Hatchback,Dayz,2020,660,Automatic,Petrol,23000,4150000
 SUV,Prado,2017,2700,Automatic,Petrol,50000,28500000
 Hatchback,Dayz,2015,660,Automatic,Petrol,79000,2475000
 Hatchback,Alto,2018,660,Automatic,Petrol,35000,3270000
@@ -2784,7 +2783,7 @@ Sedan,Corolla,2015,1500,Automatic,Petrol,110000,5500000
 Hatchback,Aqua,2015,1500,Automatic,Hybrid,79000,4400000
 Hatchback,Passo,2019,1000,Automatic,Petrol,36994,4210000
 Hatchback,Dayz,2015,660,Automatic,Petrol,85000,2190000
-Hatchback,Alto,2016,658,Automatic,Petrol,134000,2425000
+Hatchback,Alto,2016,660,Automatic,Petrol,134000,2425000
 Sedan,Prius,2020,1800,Automatic,Petrol,94642,10700000
 Hatchback,V2,2015,1300,Manual,Petrol,178000,1420000
 Mini Van,Clipper,2017,660,Automatic,Petrol,45000,2300000
@@ -2836,13 +2835,13 @@ SUV,Land,2021,4608,Automatic,Petrol,14000,84500000
 SUV,Prado,2018,2700,Automatic,Petrol,29000,30600000
 Hatchback,Vitz,2015,1000,Automatic,Petrol,89000,3600000
 Hatchback,N,2019,660,Automatic,Petrol,34000,3400000
-Hatchback,Dayz,2020,659,Automatic,Petrol,11500,3800000
+Hatchback,Dayz,2020,660,Automatic,Petrol,11500,3800000
 Crossover,Xbee,2020,1000,Automatic,Hybrid,41136,4650000
 Hatchback,Vitz,2018,996,Automatic,Petrol,100000,3975000
 SUV,Prado,2016,2700,Automatic,Petrol,40000,24500000
 Hatchback,Passo,2020,1000,Automatic,Petrol,5300,4195000
 Crossover,Glory,2021,1500,Automatic,Petrol,25000,6550000
-SUV,Jimny,2021,658,Automatic,Petrol,17000,5950000
+SUV,Jimny,2021,660,Automatic,Petrol,17000,5950000
 Station Wagon,Corolla,2016,1500,Automatic,Petrol,62000,5500000
 Hatchback,Vitz,2017,1300,Automatic,Petrol,80000,3800000
 SUV,Land,2016,4600,Automatic,Petrol,55000,43500000
@@ -2862,7 +2861,7 @@ Hatchback,Aqua,2018,1500,Automatic,Hybrid,37000,6500000
 Hatchback,N,2019,660,Automatic,Petrol,26000,4150000
 Sedan,Corolla,2022,1598,Automatic,Petrol,30000,6050000
 Hatchback,Aqua,2017,1500,Automatic,Hybrid,50000,5100000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,62000,3725000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,62000,3725000
 Sedan,Corolla,2017,1300,Automatic,Petrol,12000,4400000
 Hatchback,V2,2018,1300,Manual,Petrol,58000,1850000
 Crossover,Vezel,2016,1500,Automatic,Hybrid,70000,6500000
@@ -2873,7 +2872,7 @@ SUV,Sportage,2021,1999,Automatic,Petrol,12000,7850000
 Hatchback,Cast,2016,660,Automatic,Petrol,55800,2950000
 Hatchback,Mira,2019,660,Automatic,Petrol,44000,3630000
 Sedan,Benz,2016,1600,Automatic,Petrol,19999,22500000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,18000,3795000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,18000,3795000
 Hatchback,Yaris,2020,1500,Automatic,Petrol,69000,5000000
 Sedan,Civic,2015,1800,Manual,Petrol,100025,3750000
 Sedan,Alsvin,2022,1500,Automatic,Petrol,17000,4200000
@@ -2909,7 +2908,7 @@ Station Wagon,Corolla,2015,1500,Automatic,Petrol,148000,4750000
 SUV,Glory,2020,1500,Automatic,Petrol,45000,4400000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,120000,6000000
 Crossover,C-HR,2016,1797,Automatic,Hybrid,14000,7553000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,14761,4100000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,14761,4100000
 Hatchback,Vitz,2018,1300,Automatic,Petrol,81000,4050000
 Hatchback,Passo,2017,1000,Automatic,Petrol,555000,3550000
 Hatchback,Dayz,2018,660,Automatic,Petrol,92000,2690000
@@ -2976,7 +2975,7 @@ Hatchback,Alto,2022,660,Manual,Petrol,8000,2845000
 Hatchback,Mira,2016,660,Automatic,Petrol,44000,3000000
 Hatchback,Vitz,2019,1000,Automatic,Petrol,32000,4600000
 Mini Van,Karvaan,2021,999,Manual,Petrol,97000,2425000
-Hatchback,Alto,2021,658,Automatic,Petrol,10000,4000000
+Hatchback,Alto,2021,660,Automatic,Petrol,10000,4000000
 Crossover,Vezel,2017,1500,Automatic,Petrol,60000,7200000
 Hatchback,Ek,2017,660,Automatic,Petrol,132000,1900000
 Hatchback,Ek,2016,660,Manual,Petrol,80000,1725000
@@ -2987,7 +2986,7 @@ SUV,Tucson,2021,1999,Automatic,Petrol,32500,7865000
 Crossover,Vezel,2015,1500,Automatic,Petrol,100000,4190000
 SUV,Tucson,2021,1999,Automatic,Petrol,28000,8350000
 Sedan,Civic,2015,1800,Automatic,Petrol,120000,3990000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,17000,4100000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,17000,4100000
 Hatchback,Aqua,2015,1500,Automatic,Hybrid,146000,4450000
 Crossover,HS,2022,1500,Automatic,Petrol,4900,7800000
 Hatchback,N,2016,660,Automatic,Petrol,102500,2800000
@@ -3022,7 +3021,7 @@ Hatchback,Alto,2016,660,Automatic,Petrol,100000,2400000
 Hatchback,Mira,2018,660,Automatic,Petrol,52000,3400000
 Hatchback,Dayz,2018,660,Automatic,Petrol,18000,3375000
 MPV,Prius,2017,1800,Automatic,Petrol,82000,7100000
-SUV,Jimny,2022,658,Automatic,Petrol,3689,5850000
+SUV,Jimny,2022,660,Automatic,Petrol,3689,5850000
 Sedan,Prius,2015,1800,Automatic,Petrol,110000,5100000
 Sedan,Civic,2021,1800,Automatic,Petrol,22000,6980000
 Hatchback,Alto,2022,660,Manual,Petrol,19000,2575000
@@ -3086,7 +3085,7 @@ Sedan,Corolla,2022,1600,Automatic,Petrol,8000,6900000
 Hatchback,Pleo,2018,660,Automatic,Petrol,26000,3350000
 Hatchback,Wagon,2015,660,Automatic,Petrol,95000,2400000
 Sedan,Corolla,2018,1300,Manual,Petrol,118000,3480000
-Hatchback,Dayz,2019,659,Automatic,Petrol,26000,3500000
+Hatchback,Dayz,2019,660,Automatic,Petrol,26000,3500000
 Hatchback,Wagon,2020,660,Automatic,Hybrid,13000,3675000
 Sedan,Saga,2022,1300,Automatic,Petrol,14000,3850000
 Hatchback,N,2020,660,Automatic,Petrol,70000,2950000
@@ -3170,7 +3169,7 @@ Crossover,Vezel,2018,1500,Automatic,Petrol,70000,7800000
 Hatchback,N,2016,660,Automatic,Petrol,45000,3000000
 Hatchback,Vitz,2019,1000,Automatic,Petrol,58000,4100000
 Crossover,HS,2021,1490,Automatic,Petrol,6000,7400000
-Hatchback,Move,2021,658,Automatic,Petrol,6000,3800000
+Hatchback,Move,2021,660,Automatic,Petrol,6000,3800000
 Hatchback,Aqua,2019,1500,Automatic,Hybrid,51000,5500000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,83000,5350000
 Hatchback,Vitz,2018,1000,Automatic,Petrol,22500,4260000
@@ -3178,7 +3177,7 @@ Crossover,HS,2021,1490,Automatic,Petrol,26200,7450000
 Hatchback,Vitz,2015,1000,Automatic,Petrol,86000,3370000
 SUV,Prado,2018,2700,Automatic,Petrol,40000,30500000
 Crossover,C-HR,2019,1800,Automatic,Hybrid,71000,8600000
-Hatchback,Move,2020,658,Automatic,Petrol,36000,3885000
+Hatchback,Move,2020,660,Automatic,Petrol,36000,3885000
 Hatchback,N,2022,660,Automatic,Petrol,10900,4200000
 Micro Van,Every,2015,660,Automatic,Petrol,100000,1400000
 Hatchback,N,2015,660,Automatic,Petrol,67000,2850000
@@ -3210,12 +3209,12 @@ Sedan,A4,2016,1400,Automatic,Petrol,95000,9900000
 Crossover,Vezel,2018,1500,Automatic,Petrol,70000,8580000
 SUV,Prado,2017,2700,Automatic,Petrol,11600,31500000
 Hatchback,Wagon,2019,1000,Automatic,Petrol,39000,3400000
-Hatchback,Dayz,2017,659,Automatic,Petrol,33678,3350000
+Hatchback,Dayz,2017,660,Automatic,Petrol,33678,3350000
 Crossover,Raize,2021,1000,Automatic,Petrol,43000,5500000
 SUV,Sportage,2022,2000,Automatic,Petrol,13500,8150000
 Compact SUV,ZS,2021,1490,Automatic,Petrol,52000,5300000
 Hatchback,Wagon,2021,660,Automatic,Hybrid,800,3770000
-Hatchback,Dayz,2020,659,Automatic,Petrol,41676,4200000
+Hatchback,Dayz,2020,660,Automatic,Petrol,41676,4200000
 Hatchback,Note,2020,1198,Automatic,Hybrid,15161,5500000
 Hatchback,N,2020,660,Automatic,Petrol,11000,3350000
 Hatchback,Move,2015,660,Automatic,Petrol,68500,2450000
@@ -3277,7 +3276,7 @@ Crossover,HS,2021,1500,Automatic,Petrol,40000,7100000
 Sedan,Sonata,2022,2497,Automatic,Petrol,17000,10500000
 Hatchback,Mira,2020,660,Automatic,Petrol,15000,3830000
 Hatchback,Passo,2018,1000,Automatic,Petrol,45000,4500000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,37000,3750000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,37000,3750000
 SUV,Land,2019,4600,Automatic,Petrol,4500,64500000
 Truck,Hilux,2017,3956,Automatic,Petrol,137000,17200000
 Hatchback,Wagon,2015,660,Automatic,Petrol,71000,2560000
@@ -3302,7 +3301,6 @@ Crossover,Vezel,2016,1500,Automatic,Petrol,93000,5650000
 Crossover,Vezel,2021,1496,Automatic,Hybrid,20000,13600000
 Hatchback,Vitz,2019,996,Automatic,Petrol,59000,3900000
 Crossover,HS,2021,1500,Automatic,Petrol,700,7600000
-Hatchback,Passo,2021,100,Automatic,Petrol,20000,3900000
 Compact SUV,ZS,2021,1490,Automatic,Petrol,25000,5300000
 Crossover,HS,2021,1500,Automatic,Petrol,800,8200000
 Hatchback,Passo,2018,1000,Automatic,Petrol,70500,4500000
@@ -3389,10 +3387,10 @@ Sedan,Yaris,2020,1300,Manual,Petrol,30000,3950000
 Sedan,Civic,2017,1500,Automatic,Petrol,110000,5200000
 Hatchback,Dayz,2020,660,Automatic,Hybrid,13650,3800000
 Crossover,HS,2021,1500,Automatic,Petrol,49000,6950000
-Hatchback,Dayz,2019,659,Automatic,Petrol,60000,3500000
+Hatchback,Dayz,2019,660,Automatic,Petrol,60000,3500000
 Hatchback,Swift,2018,1000,Automatic,Petrol,76000,4100000
 High Roof,Hiace,2018,2700,Automatic,Petrol,66000,9500000
-Hatchback,Dayz,2020,659,Automatic,Petrol,16500,3250000
+Hatchback,Dayz,2020,660,Automatic,Petrol,16500,3250000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,39000,8700000
 Hatchback,Vitz,2021,996,Automatic,Petrol,62000,4125000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,65000,7200000
@@ -3434,7 +3432,7 @@ Hatchback,Alto,2017,660,Automatic,Petrol,31000,2300000
 Hatchback,Move,2019,660,Automatic,Petrol,48000,3550000
 Mini Van,Hijet,2016,660,Automatic,Petrol,71000,2350000
 SUV,X70,2021,1500,Automatic,Petrol,17000,8350000
-Hatchback,Move,2020,658,Automatic,Petrol,35000,3900000
+Hatchback,Move,2020,660,Automatic,Petrol,35000,3900000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,110533,5280000
 Hatchback,Aqua,2017,1500,Automatic,Hybrid,70000,4600000
 Hatchback,N,2021,660,Automatic,Petrol,17000,3950000
@@ -3591,7 +3589,7 @@ Hatchback,N,2018,660,Automatic,Petrol,35000,3200000
 Hatchback,Passo,2018,1000,Automatic,Petrol,150000,2985000
 Hatchback,Picanto,2021,998,Manual,Petrol,24000,2350000
 Hatchback,Passo,2017,1000,Automatic,Petrol,60000,3575000
-Hatchback,Move,2020,658,Automatic,Petrol,8000,3550000
+Hatchback,Move,2020,660,Automatic,Petrol,8000,3550000
 Hatchback,Passo,2016,1000,Automatic,Petrol,65000,3475000
 Micro Van,Every,2018,660,Automatic,Petrol,159700,2600000
 MPV,Freed,2018,1500,Automatic,Petrol,44000,6300000
@@ -3607,7 +3605,7 @@ Sedan,Corolla,2018,1300,Automatic,Petrol,66000,4600000
 Hatchback,Passo,2020,1000,Automatic,Petrol,20225,4185000
 Sedan,Corolla,2019,1600,Automatic,Petrol,65000,5450000
 Hatchback,N,2021,660,Automatic,Petrol,17000,3990000
-Hatchback,Dayz,2021,659,Automatic,Petrol,4500,3700000
+Hatchback,Dayz,2021,660,Automatic,Petrol,4500,3700000
 Hatchback,Alto,2021,660,Automatic,Petrol,3900,3500000
 Hatchback,Vitz,2019,996,Automatic,Petrol,98000,4150000
 Compact SUV,Oshan,2022,1500,Automatic,Petrol,4800,9250000
@@ -3618,11 +3616,11 @@ Crossover,C-HR,2017,1800,Automatic,Hybrid,69000,7500000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,73000,8800000
 Crossover,HS,2021,1500,Automatic,Petrol,18500,7200000
 Hatchback,Vitz,2018,1000,Automatic,Petrol,70000,4500000
-Mini Van,Jimny,2020,658,Automatic,Petrol,26000,5350000
+Mini Van,Jimny,2020,660,Automatic,Petrol,26000,5350000
 Hatchback,Pixis,2021,660,Automatic,Petrol,5500,4000000
 Hatchback,Wagon,2020,660,Automatic,Hybrid,72000,4630000
 Hatchback,N,2015,660,Automatic,Petrol,50000,2685000
-Hatchback,Alto,2017,658,Automatic,Petrol,90000,1880000
+Hatchback,Alto,2017,660,Automatic,Petrol,90000,1880000
 Van,Sienta,2016,1500,Automatic,Hybrid,98000,5600000
 Hatchback,Passo,2017,1000,Automatic,Petrol,75000,3550000
 SUV,BJ40,2022,2000,Automatic,Petrol,43000,10500000
@@ -3664,7 +3662,7 @@ Hatchback,Mira,2018,660,Automatic,Petrol,48000,3350000
 Hatchback,Aqua,2018,1500,Automatic,Hybrid,68000,6000000
 Hatchback,Aqua,2015,1500,Automatic,Hybrid,85000,4400000
 Hatchback,N,2015,660,Automatic,Petrol,80000,2480000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,18000,3750000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,18000,3750000
 SUV,Land,2016,4600,Automatic,Petrol,56000,44500000
 Hatchback,Mirage,2016,1000,Automatic,Petrol,70000,1950000
 Hatchback,Note,2016,1198,Automatic,Hybrid,67000,4395000
@@ -3776,7 +3774,7 @@ Hatchback,Passo,2018,1000,Automatic,Petrol,44000,3799000
 Hatchback,Vitz,2018,996,Automatic,Petrol,78000,4150000
 Crossover,Vezel,2017,1500,Automatic,Petrol,91000,8300000
 Sedan,City,2016,1300,Automatic,Petrol,84000,3550000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,11000,3500000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,11000,3500000
 Hatchback,Move,2016,660,Automatic,Petrol,71000,2775000
 Hatchback,Move,2018,660,Automatic,Petrol,62000,2860000
 SUV,Land,2015,4600,Automatic,Petrol,54000,32200000
@@ -3793,7 +3791,7 @@ Hatchback,Mira,2020,660,Automatic,Petrol,51000,3875000
 Hatchback,Mira,2020,660,Automatic,Petrol,68000,3750000
 Sedan,A4,2019,1400,Automatic,Petrol,38000,13200000
 Mini Van,Hijet,2016,660,Automatic,Petrol,170000,2100000
-Hatchback,Move,2020,658,Automatic,Petrol,19000,3350000
+Hatchback,Move,2020,660,Automatic,Petrol,19000,3350000
 Hatchback,Wagon,2019,1000,Manual,Petrol,22363,3200000
 Hatchback,Passo,2018,1000,Automatic,Petrol,60000,3675000
 Hatchback,Passo,2020,1000,Automatic,Petrol,7000,4750000
@@ -3908,11 +3906,11 @@ Crossover,Vezel,2017,1500,Automatic,Petrol,129000,6350000
 Hatchback,Move,2021,660,Automatic,Petrol,5200,3800000
 Sedan,City,2017,1300,Manual,Petrol,72000,3200000
 Crossover,Vezel,2016,1500,Automatic,Petrol,97214,6400000
-Hatchback,Alto,2018,658,Automatic,Petrol,85246,2900000
+Hatchback,Alto,2018,660,Automatic,Petrol,85246,2900000
 Hatchback,Mira,2018,660,Automatic,Petrol,44000,3240000
 Hatchback,Alto,2015,660,Automatic,Petrol,55000,2550000
 Hatchback,Dayz,2016,660,Automatic,Petrol,85000,2400000
-Hatchback,Dayz,2017,659,Automatic,Petrol,75000,1950000
+Hatchback,Dayz,2017,660,Automatic,Petrol,75000,1950000
 Crossover,HS,2021,1490,Automatic,Petrol,16833,7380000
 Hatchback,Passo,2019,1000,Automatic,Petrol,45000,4300000
 Sedan,Civic,2015,1800,Automatic,Petrol,148000,3900000
@@ -3934,7 +3932,7 @@ Compact SUV,Rocky,2020,1000,Automatic,Petrol,40000,5800000
 Micro Van,Every,2018,660,Automatic,Petrol,91500,3200000
 Hatchback,Passo,2020,1000,Automatic,Petrol,60800,4400000
 Micro Van,Every,2017,660,Automatic,Petrol,96000,2950000
-Hatchback,Dayz,2021,659,Automatic,Hybrid,35000,3945000
+Hatchback,Dayz,2021,660,Automatic,Hybrid,35000,3945000
 Hatchback,Mira,2016,660,Automatic,Petrol,94000,2530000
 Hatchback,Pixis,2016,660,Automatic,Petrol,90000,2075000
 Crossover,Glory,2021,1498,Automatic,Petrol,53000,5300000
@@ -3978,7 +3976,7 @@ Sedan,Insight,2019,1500,Automatic,Hybrid,20000,12100000
 SUV,X70,2021,1500,Automatic,Petrol,37000,7350000
 Sedan,Grace,2015,1500,Automatic,Petrol,180000,3600000
 Hatchback,Mira,2017,660,Automatic,Petrol,57500,3200000
-Hatchback,Dayz,2015,659,Automatic,Petrol,115000,2600000
+Hatchback,Dayz,2015,660,Automatic,Petrol,115000,2600000
 Van,Sienta,2016,1500,Automatic,Petrol,90000,5650000
 Hatchback,Vitz,2019,1000,Automatic,Petrol,21000,4090000
 Hatchback,Passo,2019,1000,Automatic,Petrol,57000,3925000
@@ -4026,7 +4024,7 @@ SUV,Sportage,2022,1999,Automatic,Petrol,29800,7500000
 Mini Van,Voxy,2017,1800,Automatic,Hybrid,90000,7500000
 Crossover,Vezel,2017,1500,Automatic,Petrol,77280,6400000
 Sedan,A4,2017,1400,Automatic,Petrol,45000,13500000
-Hatchback,Dayz,2017,659,Automatic,Petrol,79000,3090000
+Hatchback,Dayz,2017,660,Automatic,Petrol,79000,3090000
 SUV,Prado,2018,4000,Automatic,Petrol,42000,31000000
 Crossover,HS,2021,1500,Automatic,Petrol,9400,7260000
 Crossover,HS,2021,1490,Automatic,Petrol,13800,7500000
@@ -4046,7 +4044,7 @@ Mini Van,Hijet,2018,660,Automatic,Petrol,43000,3050000
 Convertible,Copen,2018,660,Automatic,Petrol,13700,4500000
 Hatchback,Civic,2017,1000,Manual,Petrol,123000,5490000
 Hatchback,Alto,2020,660,Automatic,Petrol,17750,3550000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,39000,3650000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,39000,3650000
 Hatchback,Passo,2016,1000,Automatic,Petrol,103000,3700000
 Hatchback,Mira,2015,660,Automatic,Petrol,70000,2365000
 Hatchback,Aqua,2017,1500,Automatic,Hybrid,65000,5285000
@@ -4055,7 +4053,7 @@ Hatchback,Cultus,2021,1000,Automatic,Petrol,34000,3800000
 Sedan,Corolla,2015,1300,Manual,Petrol,100000,3350000
 Crossover,Vezel,2018,1500,Automatic,Petrol,64000,8490000
 Crossover,Stonic,2019,1400,Automatic,Petrol,1,4250000
-Hatchback,Alto,2020,658,Automatic,Petrol,700,3800000
+Hatchback,Alto,2020,660,Automatic,Petrol,700,3800000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,96000,9500000
 High Roof,Hiace,2017,2700,Automatic,Petrol,71000,8000000
 Micro Van,Clipper,2018,660,Automatic,Petrol,123,2460000
@@ -4082,7 +4080,7 @@ Crossover,HS,2022,1500,Automatic,Petrol,14000,7450000
 Hatchback,Swift,2019,1000,Automatic,Petrol,35500,4700000
 Hatchback,N,2015,660,Automatic,Petrol,122000,2575000
 Hatchback,Wagon,2020,660,Automatic,Hybrid,23000,3985000
-Hatchback,Alto,2016,658,Automatic,Petrol,45000,2525000
+Hatchback,Alto,2016,660,Automatic,Petrol,45000,2525000
 Hatchback,Aqua,2018,1500,Automatic,Hybrid,76000,7000000
 Hatchback,Alto,2017,660,Automatic,Petrol,140000,2950000
 SUV,Land,2018,4600,Automatic,Petrol,14000,52500000
@@ -4090,7 +4088,7 @@ Mini Van,Hijet,2019,660,Automatic,Petrol,76000,1600000
 Hatchback,Carol,2017,660,Automatic,Petrol,31000,2950000
 Micro Van,Every,2015,660,Automatic,Petrol,110000,2295000
 Crossover,Vezel,2017,1500,Automatic,Hybrid,106955,6500000
-Hatchback,Dayz,2015,659,Automatic,Petrol,92000,2650000
+Hatchback,Dayz,2015,660,Automatic,Petrol,92000,2650000
 Crossover,C-HR,2018,1800,Automatic,Hybrid,39000,8000000
 Hatchback,Mira,2020,660,Automatic,Petrol,13000,3600000
 Hatchback,Aqua,2015,1500,Automatic,Hybrid,148641,4050000
@@ -4129,7 +4127,7 @@ Sedan,Ciaz,2017,1400,Automatic,Petrol,85000,3370000
 Hatchback,N,2015,660,Automatic,Petrol,100000,2800000
 Hatchback,Moco,2015,660,Automatic,Petrol,112000,2100000
 Hatchback,Passo,2016,1000,Automatic,Petrol,87000,3600000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,37500,4020000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,37500,4020000
 Sedan,Corolla,2017,1500,Automatic,Petrol,115000,6500000
 Hatchback,N,2018,660,Automatic,Petrol,46000,3300000
 Hatchback,Hustler,2016,660,Automatic,Petrol,104000,2650000
@@ -4144,7 +4142,7 @@ Hatchback,Vitz,2019,1000,Automatic,Petrol,62000,4090000
 Hatchback,Vitz,2018,996,Automatic,Petrol,74000,4200000
 Van,Sienta,2016,1500,Automatic,Hybrid,38000,4800000
 Hatchback,Vitz,2017,1000,Automatic,Petrol,54000,4150000
-Hatchback,Alto,2016,658,Automatic,Petrol,98120,2495000
+Hatchback,Alto,2016,660,Automatic,Petrol,98120,2495000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,95000,4800000
 Hatchback,Tanto,2020,660,Automatic,Petrol,18900,3349000
 Hatchback,Vitz,2018,996,Automatic,Petrol,45000,4200000
@@ -4173,7 +4171,7 @@ Crossover,Vezel,2015,1500,Automatic,Petrol,123000,5500000
 Micro Van,Every,2016,660,Manual,Petrol,120000,2300000
 Hatchback,Carol,2020,660,Automatic,Petrol,10728,3140000
 Crossover,Raize,2021,1000,Automatic,Petrol,3508,7500000
-Hatchback,EK,2019,659,Automatic,Petrol,45000,3375000
+Hatchback,EK,2019,660,Automatic,Petrol,45000,3375000
 Sedan,Alsvin,2021,1500,Automatic,Petrol,60000,3900000
 Hatchback,Mira,2017,660,Automatic,Petrol,75000,3210000
 Sedan,Insight,2022,1500,Automatic,Petrol,5000,14500000
@@ -4204,7 +4202,7 @@ Hatchback,Alto,2016,660,Automatic,Petrol,91500,2195000
 Hatchback,Passo,2020,1000,Automatic,Petrol,16000,3990000
 SUV,Fortuner,2018,2700,Automatic,Petrol,87000,12600000
 Hatchback,Vitz,2017,1000,Automatic,Petrol,62000,2750000
-Hatchback,Move,2020,658,Automatic,Petrol,19000,3280000
+Hatchback,Move,2020,660,Automatic,Petrol,19000,3280000
 Van,Bolan,2018,800,Manual,Petrol,36000,1345000
 Hatchback,Alto,2017,660,Automatic,Petrol,125000,2800000
 Hatchback,Alto,2020,660,Automatic,Petrol,6500,3650000
@@ -4261,7 +4259,7 @@ Hatchback,Passo,2015,1000,Automatic,Petrol,114000,3075000
 Micro Van,Every,2016,660,Automatic,Petrol,4000,1575000
 Hatchback,Passo,2020,1000,Automatic,Petrol,39000,4170000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,113000,4800000
-Hatchback,Dayz,2019,659,Automatic,Petrol,58000,3275000
+Hatchback,Dayz,2019,660,Automatic,Petrol,58000,3275000
 Hatchback,N,2017,660,Automatic,Petrol,67650,2950000
 Crossover,Glory,2021,1500,Automatic,Petrol,10000,5900000
 Hatchback,Move,2021,660,Automatic,Petrol,12000,3750000
@@ -4320,7 +4318,7 @@ Hatchback,Vitz,2019,996,Automatic,Petrol,48000,4650000
 Crossover,Vezel,2016,1500,Automatic,Hybrid,120000,6500000
 Sedan,Grace,2016,1500,Automatic,Petrol,90000,5800000
 Sedan,Alsvin,2022,1500,Automatic,Petrol,3500,4550000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,38000,4150000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,38000,4150000
 Mini Van,Hijet,2018,660,Automatic,Petrol,114000,2780000
 SUV,Tucson,2021,1999,Automatic,Petrol,68000,7400000
 Hatchback,Passo,2020,1000,Automatic,Petrol,9000,4550000
@@ -4456,7 +4454,7 @@ Crossover,Vezel,2016,1500,Automatic,Hybrid,52000,8200000
 SUV,Sportage,2021,2000,Automatic,Petrol,37000,7950000
 Sedan,City,2015,1500,Manual,Petrol,65000,2750000
 Micro Van,Every,2017,660,Automatic,Petrol,85385,2300000
-Hatchback,Dayz,2015,659,Automatic,Petrol,60000,2850000
+Hatchback,Dayz,2015,660,Automatic,Petrol,60000,2850000
 Hatchback,Picanto,2022,1000,Manual,Petrol,15000,3100000
 Compact SUV,Rocky,2020,1000,Automatic,Petrol,24000,5850000
 Hatchback,Dayz,2016,660,Automatic,Petrol,63000,2350000
@@ -4465,7 +4463,7 @@ Mini Van,Flair,2020,660,Automatic,Petrol,13000,3800000
 Van,Hiace,2015,2000,Automatic,Petrol,150000,5000000
 Mini Vehicles,Taft,2020,660,Automatic,Petrol,22000,4400000
 Mini Van,Flair,2020,660,Automatic,Petrol,43400,3675000
-Hatchback,Alto,2020,658,Automatic,Petrol,14000,3575000
+Hatchback,Alto,2020,660,Automatic,Petrol,14000,3575000
 Hatchback,Corolla,2020,2000,Automatic,Hybrid,67263,10700000
 Crossover,Glory,2021,1498,Automatic,Petrol,24600,6000000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,117000,8500000
@@ -4522,11 +4520,11 @@ SUV,Rush,2019,1500,Automatic,Petrol,9030,8000000
 Hatchback,Dayz,2021,660,Automatic,Hybrid,54000,3800000
 Hatchback,Move,2017,660,Automatic,Petrol,82000,2390000
 Hatchback,Boon,2020,1000,Automatic,Petrol,26000,4100000
-Hatchback,Alto,2016,658,Automatic,Petrol,84000,3100000
+Hatchback,Alto,2016,660,Automatic,Petrol,84000,3100000
 Hatchback,Dayz,2019,660,Automatic,Petrol,52000,3100000
 Crossover,HS,2021,1490,Automatic,Petrol,28000,7000000
 Compact SUV,Sorento,2021,3500,Automatic,Petrol,66000,10000000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,3000,4400000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,3000,4400000
 Hatchback,Passo,2019,1000,Automatic,Petrol,37000,3980000
 Sedan,Corolla,2022,1598,Automatic,Petrol,30000,5800000
 Crossover,Raize,2020,996,Automatic,Petrol,47000,5800000
@@ -4599,7 +4597,7 @@ Crossover,Vezel,2018,1500,Automatic,Hybrid,55000,7800000
 Sedan,Corolla,2017,1798,Automatic,Petrol,64000,4800000
 Hatchback,Vitz,2020,1300,Automatic,Petrol,29000,6050000
 SUV,Prado,2017,2700,Automatic,Petrol,46500,26500000
-Hatchback,Tanto,2020,658,Automatic,Petrol,17850,3375000
+Hatchback,Tanto,2020,660,Automatic,Petrol,17850,3375000
 MPV,Roomy,2017,1000,Automatic,Petrol,34100,3600000
 Hatchback,Vitz,2017,1000,Automatic,Petrol,97000,3620000
 Hatchback,Fit,2020,1500,Automatic,Hybrid,33000,6000000
@@ -4695,7 +4693,7 @@ Crossover,Vezel,2018,1500,Automatic,Hybrid,94000,8150000
 Hatchback,Mira,2020,660,Automatic,Petrol,10800,3650000
 Hatchback,Wagon,2018,1000,Manual,Petrol,144000,1900000
 Sedan,Corolla,2019,1300,Automatic,Petrol,47000,4500000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,22000,3825000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,22000,3825000
 Hatchback,Move,2020,660,Automatic,Petrol,30000,3750000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,22500,8500000
 Pick Up,Sierra,2020,6600,Automatic,Petrol,8200,37000000
@@ -4732,7 +4730,7 @@ Crossover,HS,2020,1490,Automatic,Petrol,17000,7250000
 Hatchback,Alto,2019,660,Automatic,Petrol,48000,2700000
 Micro Van,Every,2018,660,Automatic,Petrol,30000,2850000
 SUV,Sportage,2020,1999,Automatic,Petrol,50000,7200000
-Hatchback,Dayz,2016,659,Automatic,Petrol,78400,2660000
+Hatchback,Dayz,2016,660,Automatic,Petrol,78400,2660000
 Station Wagon,Corolla,2015,1500,Automatic,Petrol,69000,4800000
 Hatchback,Wagon,2015,660,Automatic,Petrol,80000,2475000
 MPV,BR-V,2017,1500,Automatic,Petrol,86000,4000000
@@ -4758,7 +4756,7 @@ Hatchback,Mira,2019,660,Automatic,Petrol,12000,3350000
 Crossover,HS,2020,1500,Automatic,Petrol,19500,7200000
 Hatchback,Wagon,2020,660,Automatic,Hybrid,20000,3675000
 Hatchback,Aqua,2016,1500,Automatic,Hybrid,112000,4395000
-Hatchback,Dayz,2016,659,Automatic,Petrol,38000,2800000
+Hatchback,Dayz,2016,660,Automatic,Petrol,38000,2800000
 Hatchback,Vitz,2018,996,Automatic,Petrol,57000,4100000
 SUV,Tucson,2021,1999,Automatic,Petrol,64000,7585000
 Hatchback,Move,2015,660,Automatic,Petrol,88000,2375000
@@ -4858,10 +4856,10 @@ Mini Van,Karvaan,2020,999,Manual,Petrol,79000,1975000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,30000,8500000
 Mini Van,Hijet,2015,660,Automatic,Petrol,160475,1650000
 Hatchback,Move,2020,660,Automatic,Petrol,3400,3400000
-Hatchback,Dayz,2020,659,Automatic,Petrol,83000,3480000
+Hatchback,Dayz,2020,660,Automatic,Petrol,83000,3480000
 Hatchback,Wagon,2021,660,Automatic,Hybrid,8000,4450000
 Mini Van,Clipper,2017,660,Automatic,Petrol,50000,2290000
-Hatchback,Alto,2019,658,Automatic,Petrol,45100,3950000
+Hatchback,Alto,2019,660,Automatic,Petrol,45100,3950000
 Mini Van,Karvaan,2022,1000,Manual,Petrol,1900,2885000
 Hatchback,Passo,2019,1000,Automatic,Petrol,57100,4100000
 Crossover,Vezel,2017,1500,Automatic,Petrol,37000,8000000
@@ -4957,7 +4955,7 @@ Sedan,Benz,2020,1500,Automatic,Petrol,18579,29800000
 Sedan,Corolla,2016,1500,Automatic,Petrol,97000,6250000
 Hatchback,Wagon,2018,660,Automatic,Hybrid,85000,2300000
 Crossover,Vezel,2015,1500,Automatic,Hybrid,160000,5500000
-Mini Van,Jimny,2018,658,Automatic,Petrol,118000,3985000
+Mini Van,Jimny,2018,660,Automatic,Petrol,118000,3985000
 Hatchback,Dayz,2017,660,Automatic,Petrol,41000,2750000
 Sedan,Civic,2018,1800,Automatic,Petrol,81260,4950000
 Hatchback,Alto,2018,660,Automatic,Petrol,63000,2975000
@@ -4983,7 +4981,6 @@ Hatchback,Dayz,2018,660,Automatic,Petrol,105000,2950000
 Crossover,HS,2021,1500,Automatic,Petrol,37000,7100000
 Hatchback,Passo,2016,1000,Automatic,Petrol,95000,3500000
 Van,K07,2020,997,Manual,Petrol,7500,2650000
-Hatchback,Otti,2016,600,Automatic,Petrol,99928,2050000
 Sedan,Alsvin,2022,1500,Automatic,Petrol,19800,4390000
 Hatchback,Alto,2017,660,Automatic,Petrol,139000,2300000
 Hatchback,Fit,2018,1500,Automatic,Hybrid,65000,5500000
@@ -5028,7 +5025,7 @@ Hatchback,Vitz,2018,1000,Automatic,Petrol,65000,4200000
 Hatchback,Mira,2018,660,Automatic,Petrol,54000,3300000
 Micro Van,Every,2019,660,Automatic,Petrol,71350,3250000
 Crossover,Vezel,2016,1500,Automatic,Hybrid,133000,5500000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,42000,3370000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,42000,3370000
 Hatchback,Wagon,2020,1000,Automatic,Petrol,39000,2975000
 Hatchback,Aqua,2016,1500,Automatic,Hybrid,50000,5500000
 Sedan,Corolla,2019,1600,Automatic,Petrol,70,5100000
@@ -5038,7 +5035,7 @@ Sedan,Premio,2015,1500,Automatic,Petrol,88000,6800000
 Hatchback,Alto,2020,660,Automatic,Petrol,20000,3075000
 Hatchback,Passo,2015,1000,Automatic,Petrol,110000,2800000
 Sedan,Civic,2018,1800,Automatic,Petrol,80000,5700000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,18000,3825000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,18000,3825000
 Hatchback,Vitz,2017,1000,Automatic,Petrol,98580,2875000
 Van,Sienta,2017,1500,Automatic,Petrol,160000,6500000
 Hatchback,Passo,2018,1000,Automatic,Petrol,114000,3720000
@@ -5082,12 +5079,12 @@ Sedan,Corolla,2018,1500,Automatic,Petrol,101000,7275000
 Crossover,HS,2021,1500,Automatic,Petrol,22000,7200000
 Sedan,A3,2016,1200,Automatic,Petrol,54000,6800000
 MPV,Grand,2022,3470,Automatic,Petrol,5600,15000000
-Hatchback,Dayz,2018,659,Automatic,Petrol,42000,3050000
+Hatchback,Dayz,2018,660,Automatic,Petrol,42000,3050000
 Hatchback,Wagon,2015,660,Automatic,Petrol,140000,2400000
 Hatchback,Passo,2016,1000,Automatic,Petrol,54700,3198000
 Hatchback,Swift,2017,1000,Automatic,Petrol,98000,4400000
 Hatchback,Vitz,2018,996,Automatic,Petrol,54000,3800000
-Hatchback,Dayz,2018,659,Automatic,Petrol,75000,2650000
+Hatchback,Dayz,2018,660,Automatic,Petrol,75000,2650000
 Micro Van,Every,2022,660,Automatic,Petrol,15,2950000
 SUV,Prado,2016,2700,Automatic,Petrol,55000,18800000
 Crossover,C-HR,2016,1797,Automatic,Hybrid,172000,7600000
@@ -5374,12 +5371,12 @@ High Roof,Hiace,2018,2700,Automatic,Petrol,56000,9200000
 Mini Van,Clipper,2021,660,Automatic,Petrol,79000,2650000
 Sedan,Camry,2015,2500,Automatic,Petrol,70000,10800000
 Hatchback,Mira,2015,660,Automatic,Petrol,200000,2500000
-Hatchback,EK,2019,659,Automatic,Hybrid,32000,3350000
+Hatchback,EK,2019,660,Automatic,Hybrid,32000,3350000
 Hatchback,Move,2017,660,Automatic,Petrol,42000,3300000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,100000,7900000
 Hatchback,Mira,2021,660,Automatic,Petrol,18000,3575000
 Hatchback,Aqua,2017,1500,Automatic,Hybrid,110000,4550000
-Hatchback,Dayz,2015,659,Automatic,Petrol,80000,2250000
+Hatchback,Dayz,2015,660,Automatic,Petrol,80000,2250000
 Crossover,Vezel,2017,1500,Automatic,Hybrid,75000,6000000
 SUV,LX,2016,5700,Automatic,Petrol,45000,62500000
 Hatchback,Aqua,2015,1500,Automatic,Hybrid,106561,4200000
@@ -5394,7 +5391,7 @@ SUV,Prado,2018,2700,Automatic,Petrol,123,16000000
 SUV,X70,2022,1500,Automatic,Petrol,27000,8200000
 Hatchback,Vitz,2018,996,Automatic,Petrol,96000,3800000
 Micro Van,Every,2019,660,Automatic,Petrol,1,2680000
-Hatchback,Tanto,2020,658,Automatic,Petrol,18500,3390000
+Hatchback,Tanto,2020,660,Automatic,Petrol,18500,3390000
 MPV,Freed,2019,1500,Automatic,Petrol,117000,3650000
 Crossover,HS,2021,1500,Automatic,Petrol,6500,7520000
 Hatchback,Alto,2016,660,Automatic,Petrol,44000,2200000
@@ -5491,10 +5488,10 @@ Mini Van,Note,2017,1198,Automatic,Hybrid,70000,3950000
 SUV,Fortuner,2021,2800,Automatic,Diesel,53000,16100000
 Compact SUV,H6,2022,2000,Automatic,Petrol,25000,11200000
 Sedan,Civic,2021,1500,Automatic,Petrol,28000,6800000
-Hatchback,Cast,2017,658,Automatic,Petrol,73200,3325000
+Hatchback,Cast,2017,660,Automatic,Petrol,73200,3325000
 Double Cabin,Hilux,2017,3000,Automatic,Diesel,75000,8800000
 Hatchback,Vitz,2018,1000,Automatic,Petrol,65000,3530000
-Hatchback,Dayz,2015,659,Automatic,Petrol,74000,2550000
+Hatchback,Dayz,2015,660,Automatic,Petrol,74000,2550000
 Micro Van,Every,2016,660,Automatic,Petrol,90000,2400000
 SUV,Land,2022,3445,Automatic,Petrol,4000,91500000
 Hatchback,Vitz,2019,996,Automatic,Petrol,22000,4700000
@@ -5511,7 +5508,7 @@ SUV,Land,2016,4600,Automatic,Petrol,69000,45000000
 Crossover,C-HR,2018,1800,Automatic,Hybrid,68000,9500000
 Hatchback,Pixis,2017,660,Automatic,Petrol,40000,2800000
 Compact SUV,Rocky,2019,1000,Automatic,Petrol,20000,5000000
-Hatchback,Alto,2015,658,Automatic,Petrol,94000,2400000
+Hatchback,Alto,2015,660,Automatic,Petrol,94000,2400000
 Hatchback,Alto,2020,660,Manual,Petrol,35000,2750000
 Hatchback,Alto,2020,660,Automatic,Petrol,8040,3450000
 MPV,Freed,2016,1500,Automatic,Petrol,71000,5300000
@@ -5593,7 +5590,7 @@ SUV,LX,2016,5700,Automatic,Petrol,31000,66500000
 Hatchback,Vitz,2015,1000,Automatic,Petrol,74000,3200000
 Crossover,Vezel,2016,1500,Automatic,Petrol,123,7200000
 Hatchback,Wagon,2019,660,Automatic,Hybrid,89000,4000000
-Hatchback,Alto,2018,658,Manual,Petrol,67500,3550000
+Hatchback,Alto,2018,660,Manual,Petrol,67500,3550000
 Crossover,Vezel,2019,1500,Automatic,Petrol,54000,6600000
 Hatchback,Move,2019,660,Automatic,Petrol,16000,3350000
 Hatchback,N,2018,660,Automatic,Petrol,38000,3550000
@@ -5634,7 +5631,7 @@ Hatchback,N,2019,660,Automatic,Petrol,66000,3100000
 Hatchback,Passo,2018,996,Automatic,Petrol,50000,4000000
 Hatchback,Move,2015,660,Automatic,Petrol,82000,2290000
 Crossover,C-HR,2017,1800,Automatic,Hybrid,100000,8300000
-Hatchback,Dayz,2022,659,Automatic,Petrol,75000,3100000
+Hatchback,Dayz,2022,660,Automatic,Petrol,75000,3100000
 Hatchback,Dayz,2019,660,Automatic,Petrol,75000,3250000
 Mini Van,Hijet,2018,660,Automatic,Petrol,123456,1435000
 Mini Vehicles,Taft,2022,660,Automatic,Petrol,2300,4200000
@@ -5909,12 +5906,12 @@ Sedan,Corolla,2018,1300,Automatic,Petrol,57721,4500000
 Hatchback,Vitz,2017,1500,Automatic,Hybrid,56000,4900000
 Sedan,City,2017,1300,Manual,Petrol,108000,3200000
 Crossover,Vezel,2016,1500,Automatic,Petrol,42000,6835000
-Hatchback,Dayz,2019,659,Automatic,Hybrid,26700,3650000
+Hatchback,Dayz,2019,660,Automatic,Hybrid,26700,3650000
 Hatchback,N,2016,660,Automatic,Petrol,65000,2300000
 SUV,Prado,2015,2700,Automatic,Petrol,123,23100000
 Crossover,Vezel,2016,1500,Automatic,Hybrid,105000,6000000
 SUV,Sportage,2022,1999,Automatic,Petrol,25000,8600000
-Hatchback,Dayz,2018,659,Automatic,Petrol,15000,3200000
+Hatchback,Dayz,2018,660,Automatic,Petrol,15000,3200000
 Hatchback,Wagon,2015,660,Automatic,Petrol,215000,1975000
 MPV,BR-V,2017,1500,Automatic,Petrol,80000,4500000
 Hatchback,Cast,2018,660,Automatic,Petrol,32000,3350000
@@ -5959,14 +5956,14 @@ Hatchback,Alto,2019,660,Automatic,Petrol,70000,2390000
 Hatchback,Aqua,2015,1500,Automatic,Hybrid,89300,3875000
 Sedan,City,2018,1300,Manual,Petrol,150000,3700000
 Mini Van,Note,2017,1198,Automatic,Hybrid,70000,4650000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,14350,3750000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,14350,3750000
 Hatchback,Note,2017,1198,Automatic,Hybrid,77000,4990000
 Hatchback,Move,2020,660,Automatic,Petrol,20000,3650000
 Sedan,Corolla,2019,1600,Automatic,Petrol,46000,5000000
 Hatchback,Dayz,2018,660,Automatic,Petrol,55000,3050000
 Sedan,Corolla,2017,1600,Automatic,Petrol,90000,4250000
 SUV,Sportage,2020,2000,Automatic,Petrol,39000,6700000
-Hatchback,N,2020,658,Automatic,Petrol,72000,2635000
+Hatchback,N,2020,660,Automatic,Petrol,72000,2635000
 Crossover,HS,2020,1500,Automatic,Petrol,45000,6675000
 Hatchback,Wagon,2020,660,Automatic,Hybrid,13000,3550000
 Hatchback,Alto,2021,660,Automatic,Petrol,3000,3850000
@@ -5996,7 +5993,6 @@ Hatchback,Vitz,2018,1000,Automatic,Petrol,99993,4000000
 Sedan,Prius,2015,1800,Automatic,Hybrid,120000,5495000
 Hatchback,Aqua,2021,1490,Automatic,Hybrid,33000,9000000
 Hatchback,Wagon,2015,660,Automatic,Petrol,95000,2750000
-Hatchback,Vitz,2017,100,Automatic,Petrol,119000,2800000
 Crossover,Glory,2021,1500,Automatic,Petrol,13000,5650000
 Mini Van,X-PV,2016,1000,Manual,Petrol,140000,1100000
 Hatchback,N,2015,660,Automatic,Petrol,136000,2550000
@@ -6013,7 +6009,7 @@ Hatchback,Vitz,2017,1000,Automatic,Petrol,119000,2800000
 Micro Van,Every,2017,660,Automatic,Petrol,80000,2450000
 Crossover,Kicks,2021,1300,Automatic,Petrol,28000,7400000
 Crossover,Vezel,2021,1500,Automatic,Hybrid,29000,12200000
-Hatchback,Move,2019,658,Automatic,Petrol,15000,3550000
+Hatchback,Move,2019,660,Automatic,Petrol,15000,3550000
 Hatchback,Passo,2015,1000,Automatic,Petrol,105000,2750000
 Hatchback,N,2017,660,Automatic,Petrol,49000,2950000
 Micro Van,Every,2015,660,Automatic,Petrol,94000,2210000
@@ -6145,7 +6141,7 @@ Hatchback,Aqua,2015,1500,Automatic,Hybrid,195000,4285000
 Hatchback,Wagon,2019,660,Automatic,Hybrid,26000,3600000
 Hatchback,Vitz,2018,996,Automatic,Petrol,50000,4450000
 Hatchback,Note,2018,1198,Automatic,Hybrid,66000,5200000
-Hatchback,Move,2020,658,Automatic,Petrol,26000,3650000
+Hatchback,Move,2020,660,Automatic,Petrol,26000,3650000
 Hatchback,Cast,2019,660,Automatic,Petrol,71425,3400000
 MPV,Freed,2015,1500,Automatic,Hybrid,135000,4000000
 Hatchback,Note,2017,1198,Automatic,Hybrid,36000,4600000
@@ -6278,7 +6274,6 @@ SUV,BJ40,2022,1981,Automatic,Petrol,12000,10300000
 Sedan,A3,2015,1200,Automatic,Petrol,88500,6590000
 Crossover,Vezel,2018,1500,Automatic,Hybrid,140000,7950000
 Hatchback,Passo,2016,1000,Automatic,Petrol,71000,3150000
-Hatchback,Passo,2017,100,Automatic,Petrol,54000,3650000
 Mini Van,Hijet,2015,660,Manual,Petrol,185000,1215000
 Crossover,HS,2021,1500,Automatic,Petrol,26000,7000000
 Station Wagon,Corolla,2017,1500,Automatic,Hybrid,96500,6450000
@@ -6292,7 +6287,7 @@ Hatchback,N,2018,660,Automatic,Petrol,37900,3100000
 Mini Van,Hijet,2016,660,Automatic,Petrol,152394,1500000
 Micro Van,Every,2018,660,Automatic,Petrol,46000,2675000
 Hatchback,Move,2015,660,Automatic,Petrol,95000,2970000
-Hatchback,Dayz,2020,659,Automatic,Hybrid,35000,3945000
+Hatchback,Dayz,2020,660,Automatic,Hybrid,35000,3945000
 Hatchback,Vitz,2018,996,Automatic,Petrol,82000,3580000
 Hatchback,Vitz,2016,1000,Automatic,Petrol,77000,3400000
 Hatchback,N,2016,660,Automatic,Petrol,47850,2570000
@@ -6385,7 +6380,7 @@ Hatchback,Wagon,2018,660,Automatic,Hybrid,45000,3150000
 Hatchback,Passo,2019,1000,Automatic,Petrol,17000,4300000
 Hatchback,Vitz,2019,1000,Automatic,Petrol,42000,4250000
 Hatchback,Wagon,2018,660,Automatic,Hybrid,28900,3430000
-Hatchback,Dayz,2022,659,Automatic,Hybrid,30000,3650000
+Hatchback,Dayz,2022,660,Automatic,Hybrid,30000,3650000
 Sedan,Benz,2017,1500,Automatic,Petrol,37000,19600000
 Sedan,Corolla,2018,1300,Manual,Petrol,130,3950000
 SUV,Prado,2017,2700,Automatic,Petrol,61623,24000000
@@ -6398,7 +6393,7 @@ Hatchback,Vitz,2018,996,Automatic,Petrol,80000,3950000
 Hatchback,Vitz,2017,1000,Automatic,Petrol,66000,3800000
 Hatchback,Note,2018,1198,Automatic,Petrol,55000,4000000
 Hatchback,Passo,2016,996,Automatic,Petrol,29000,3575000
-Hatchback,Alto,2020,658,Automatic,Petrol,20400,3550000
+Hatchback,Alto,2020,660,Automatic,Petrol,20400,3550000
 Hatchback,Passo,2016,1000,Automatic,Petrol,79872,3325000
 Sedan,A5,2019,1984,Automatic,Petrol,36000,17600000
 Hatchback,Mira,2020,660,Automatic,Petrol,4000,3350000
@@ -6428,7 +6423,6 @@ Crossover,HS,2021,1500,Automatic,Petrol,29000,7250000
 Hatchback,Move,2015,660,Automatic,Petrol,106000,2863000
 Crossover,C-HR,2018,1800,Automatic,Hybrid,40000,8700000
 Micro Van,Every,2019,660,Automatic,Petrol,50000,2790000
-Micro Van,Every,2019,220,Automatic,Petrol,25000,3425000
 Crossover,Raize,2020,1000,Automatic,Petrol,50200,7150000
 Hatchback,Move,2018,660,Automatic,Petrol,78000,3250000
 Hatchback,Move,2020,660,Automatic,Petrol,68000,3130000
