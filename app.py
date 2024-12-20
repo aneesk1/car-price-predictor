@@ -17,7 +17,7 @@ unique_car_names = cars_data['Car_Name'].unique()
 # Streamlit widgets for user input
 name = st.selectbox('Select Car', unique_car_names)  # Car name selection
 car_body = st.selectbox('Select Car Body Type', cars_data['Car_Body'].unique())  # Car body selection
-year = st.slider('Year', 2014, 2027)  # Year selection
+year = st.slider('Year', 2014, 2025)  # Year selection
 engine = st.slider('Engine CC', 660, 5000)  # Engine capacity slider
 transmission = st.selectbox('Transmission type', cars_data['Transmission'].unique())  # Transmission type
 fuel = st.selectbox('Fuel type', cars_data['Fueltype'].unique())  # Fuel type selection
